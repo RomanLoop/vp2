@@ -3,13 +3,13 @@ import networkx as nx
 import torch.nn as nn
 import torch.nn.functional as F
 
-from dgl.nn.pytorch import GraphConv
+from dgl.nn.pytorch import GraphConv, SAGEConv, GATConv
 from itertools import chain, islice
 from time import time
 
 
 # GNN class to be instantiated with specified param values
-class GCN_dev(nn.Module):
+class GCN_dev_1(nn.Module):
     def __init__(self, in_feats, hidden_size, number_classes, dropout, device):
         """
         Initialize a new instance of the core GCN model of provided size.
@@ -21,11 +21,15 @@ class GCN_dev(nn.Module):
             dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
             device: Specifies device (CPU vs GPU) to load variables onto
         """
-        super(GCN_dev, self).__init__()
+        super(GCN_dev_1, self).__init__()
 
         self.dropout_frac = dropout
         self.conv1 = GraphConv(in_feats, hidden_size).to(device)
         self.conv2 = GraphConv(hidden_size, number_classes).to(device)
+
+        # self.conv1 = SAGEConv(in_feats, hidden_size, aggregator_type='mean').to(device)
+        # self.conv2 = SAGEConv(hidden_size, number_classes, aggregator_type='mean').to(device)
+
 
     def forward(self, g, inputs):
         """
@@ -46,6 +50,58 @@ class GCN_dev(nn.Module):
 
         # output step
         h = self.conv2(g, h)
+        h = torch.sigmoid(h)
+
+        return h
+
+
+# GNN class to be instantiated with specified param values
+class GCN_dev_2(nn.Module):
+    def __init__(self, in_feats, hidden_size, number_classes, dropout, device):
+        """
+        Initialize a new instance of the core GCN model of provided size.
+        Dropout is added in forward step.
+
+        Inputs:
+            in_feats: Dimension of the input (embedding) layer
+            hidden_size: Hidden layer size
+            dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
+            device: Specifies device (CPU vs GPU) to load variables onto
+        """
+        super(GCN_dev_2, self).__init__()
+
+        self.dropout_frac = dropout
+        # self.conv1 = GraphConv(in_feats, hidden_size).to(device)
+        self.conv1 = SAGEConv(in_feats, hidden_size, aggregator_type='pool').to(device)
+        # self.conv1 = GATConv(in_feats, hidden_size, num_heads=1).to(device)
+
+        # self.conv1 = SAGEConv(in_feats, number_classes, aggregator_type='mean').to(device)
+
+
+        # self.conv2 = GraphConv(hidden_size, number_classes).to(device)
+
+        self.decoder1 = nn.Linear(hidden_size, number_classes).to(device)
+
+
+    def forward(self, g, inputs):
+        """
+        Run forward propagation step of instantiated model.
+
+        Input:
+            self: GCN_dev instance
+            g: DGL graph object, i.e. problem definition
+            inputs: Input (embedding) layer weights, to be propagated through network
+        Output:
+            h: Output layer weights
+        """
+
+        # input step
+        h = self.conv1(g, inputs)
+        h = torch.relu(h)
+        h = F.dropout(h, p=self.dropout_frac)
+
+        # output step
+        h = self.decoder1(h)
         h = torch.sigmoid(h)
 
         return h
@@ -82,8 +138,9 @@ def generate_graph(n, d=None, p=None, graph_type='reg', random_seed=0):
 
     # Networkx does not enforce node order by default
     nx_temp = nx.relabel.convert_node_labels_to_integers(nx_temp)
+    
     # Need to pull nx graph into OrderedGraph so training will work properly
-    nx_graph = nx.OrderedGraph()
+    nx_graph = nx.Graph()
     nx_graph.add_nodes_from(sorted(nx_temp.nodes()))
     nx_graph.add_edges_from(nx_temp.edges)
     return nx_graph
@@ -141,8 +198,8 @@ def loss_func(probs, Q_mat):
     return cost
 
 
-# Construct graph to learn on
-def get_gnn(n_nodes, gnn_hypers, opt_params, torch_device, torch_dtype):
+# # Construct graph to learn on
+def get_gnn_1(n_nodes, gnn_hypers, opt_params, torch_device, torch_dtype):
     """
     Generate GNN instance with specified structure. Creates GNN, retrieves embedding layer,
     and instantiates ADAM optimizer given those.
@@ -164,7 +221,40 @@ def get_gnn(n_nodes, gnn_hypers, opt_params, torch_device, torch_dtype):
     number_classes = gnn_hypers['number_classes']
 
     # instantiate the GNN
-    net = GCN_dev(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
+    net = GCN_dev_1(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
+    net = net.type(torch_dtype).to(torch_device)
+    embed = nn.Embedding(n_nodes, dim_embedding)
+    embed = embed.type(torch_dtype).to(torch_device)
+
+    # set up Adam optimizer
+    params = chain(net.parameters(), embed.parameters())
+    optimizer = torch.optim.Adam(params, **opt_params)
+    return net, embed, optimizer
+
+
+def get_gnn_2(n_nodes, gnn_hypers, opt_params, torch_device, torch_dtype):
+    """
+    Generate GNN instance with specified structure. Creates GNN, retrieves embedding layer,
+    and instantiates ADAM optimizer given those.
+
+    Input:
+        n_nodes: Problem size (number of nodes in graph)
+        gnn_hypers: Hyperparameters relevant to GNN structure
+        opt_params: Hyperparameters relevant to ADAM optimizer
+        torch_device: Whether to load pytorch variables onto CPU or GPU
+        torch_dtype: Datatype to use for pytorch variables
+    Output:
+        net: GNN instance
+        embed: Embedding layer to use as input to GNN
+        optimizer: ADAM optimizer instance
+    """
+    dim_embedding = gnn_hypers['dim_embedding']
+    hidden_dim = gnn_hypers['hidden_dim']
+    dropout = gnn_hypers['dropout']
+    number_classes = gnn_hypers['number_classes']
+
+    # instantiate the GNN
+    net = GCN_dev_2(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
     net = net.type(torch_dtype).to(torch_device)
     embed = nn.Embedding(n_nodes, dim_embedding)
     embed = embed.type(torch_dtype).to(torch_device)
@@ -237,4 +327,4 @@ def run_gnn_training(q_torch, dgl_graph, net, embed, optimizer, number_epochs, t
 
     final_bitstring = (probs.detach() >= prob_threshold) * 1
 
-    return net, epoch, final_bitstring, best_bitstring
+    return net, epoch, final_bitstring, best_bitstring, inputs
