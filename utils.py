@@ -21,7 +21,7 @@ class GCN_2L_Model(nn.Module):
             dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
             device: Specifies device (CPU vs GPU) to load variables onto
         """
-        super(GCN_2L_Model, self).__init__()
+        super().__init__()
 
         self.dropout_frac = dropout
         self.conv1 = GraphConv(in_feats, hidden_size).to(device)
@@ -53,34 +53,13 @@ class GCN_2L_Model(nn.Module):
 
 class SAGE_2L_Model(nn.Module):
     def __init__(self, in_feats, hidden_size, number_classes, dropout, device):
-        """
-        Initialize a new instance of the core GCN model of provided size.
-        Dropout is added in forward step.
-
-        Inputs:
-            in_feats: Dimension of the input (embedding) layer
-            hidden_size: Hidden layer size
-            dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
-            device: Specifies device (CPU vs GPU) to load variables onto
-        """
-        super(SAGE_2L_Model, self).__init__()
+        super().__init__()
 
         self.dropout_frac = dropout
         self.conv1 = SAGEConv(in_feats, hidden_size, aggregator_type='pool').to(device)
         self.conv2 = SAGEConv(hidden_size, number_classes, aggregator_type='pool').to(device)
 
     def forward(self, g, inputs):
-        """
-        Run forward propagation step of instantiated model.
-
-        Input:
-            self: GCN_dev instance
-            g: DGL graph object, i.e. problem definition
-            inputs: Input (embedding) layer weights, to be propagated through network
-        Output:
-            h: Output layer weights
-        """
-
         # input step
         h = self.conv1(g, inputs)
         h = torch.relu(h)
@@ -91,22 +70,36 @@ class SAGE_2L_Model(nn.Module):
         h = torch.sigmoid(h)
 
         return h
+    
+
+class GAT_2L_Model(nn.Module):
+    def __init__(self, in_feats, hidden_size, number_classes, dropout, device, num_heads):
+        super().__init__()
+
+        self.dropout_frac = dropout
+        self.num_heads = num_heads
+        self.conv1 = GATConv(in_feats, hidden_size, num_heads=self.num_heads).to(device)
+        self.conv2 = GATConv(hidden_size*self.num_heads, number_classes, num_heads=self.num_heads).to(device)
+
+    def forward(self, g, inputs):
+        # input step
+        h = self.conv1(g, inputs)
+        h = h.reshape(h.size()[0], -1) # reshape
+        h = torch.relu(h)
+        h = F.dropout(h, p=self.dropout_frac)
+
+        # output step
+        h = self.conv2(g, h)
+        h = h.reshape(h.size()[0], -1) # reshape
+        h = torch.sigmoid(h)
+
+        return h
 
 
 # GNN class to be instantiated with specified param values
 class GCN_1L_Model(nn.Module):
     def __init__(self, in_feats, hidden_size, number_classes, dropout, device):
-        """
-        Initialize a new instance of the core GCN model of provided size.
-        Dropout is added in forward step.
-
-        Inputs:
-            in_feats: Dimension of the input (embedding) layer
-            hidden_size: Hidden layer size
-            dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
-            device: Specifies device (CPU vs GPU) to load variables onto
-        """
-        super(GCN_1L_Model, self).__init__()
+        super().__init__()
 
         self.dropout_frac = dropout
         # self.conv1 = GraphConv(in_feats, hidden_size).to(device)
@@ -115,17 +108,6 @@ class GCN_1L_Model(nn.Module):
 
 
     def forward(self, g, inputs):
-        """
-        Run forward propagation step of instantiated model.
-
-        Input:
-            self: GCN_dev instance
-            g: DGL graph object, i.e. problem definition
-            inputs: Input (embedding) layer weights, to be propagated through network
-        Output:
-            h: Output layer weights
-        """
-
         # input step
         h = self.conv1(g, inputs)
         h = torch.relu(h)
@@ -141,17 +123,7 @@ class GCN_1L_Model(nn.Module):
 # GNN class to be instantiated with specified param values
 class SAGE_1L_Model(nn.Module):
     def __init__(self, in_feats, hidden_size, number_classes, dropout, device):
-        """
-        Initialize a new instance of the core GCN model of provided size.
-        Dropout is added in forward step.
-
-        Inputs:
-            in_feats: Dimension of the input (embedding) layer
-            hidden_size: Hidden layer size
-            dropout: Fraction of dropout to add between intermediate layer. Value is cached for later use.
-            device: Specifies device (CPU vs GPU) to load variables onto
-        """
-        super(SAGE_1L_Model, self).__init__()
+        super().__init__()
 
         self.dropout_frac = dropout
         # self.conv1 = GraphConv(in_feats, hidden_size).to(device)
@@ -160,19 +132,36 @@ class SAGE_1L_Model(nn.Module):
 
 
     def forward(self, g, inputs):
-        """
-        Run forward propagation step of instantiated model.
-
-        Input:
-            self: GCN_dev instance
-            g: DGL graph object, i.e. problem definition
-            inputs: Input (embedding) layer weights, to be propagated through network
-        Output:
-            h: Output layer weights
-        """
 
         # input step
         h = self.conv1(g, inputs)
+        print(f"Conv1: {h.size()}")
+        h = torch.relu(h)
+        h = F.dropout(h, p=self.dropout_frac)
+
+        # output step
+        h = self.decoder1(h)
+        h = torch.sigmoid(h)
+
+        return h
+    
+# GNN class to be instantiated with specified param values
+class GAT_1L_Model(nn.Module):
+    def __init__(self, in_feats, hidden_size, number_classes, dropout, device, num_heads):
+        super().__init__()
+
+        self.dropout_frac = dropout
+        self.num_heads = num_heads
+        # self.conv1 = GraphConv(in_feats, hidden_size).to(device)
+        self.conv1 = GATConv(in_feats, hidden_size, num_heads=self.num_heads).to(device)
+        self.decoder1 = nn.Linear(hidden_size*self.num_heads, number_classes).to(device)
+
+    def forward(self, g, inputs):
+
+        # input step
+        h = self.conv1(g, inputs)
+        h = h.reshape(h.size()[0], -1) # reshape
+        # print(f"Conv1: {h.size()}")
         h = torch.relu(h)
         h = F.dropout(h, p=self.dropout_frac)
 
@@ -304,11 +293,29 @@ def get_gnn(n_nodes, params, model_type, torch_device, torch_dtype):
     elif model_type == "SAGE_2L_Model":
         net = SAGE_2L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
     
+    elif model_type == "GAT_2L_1H_Model":
+        net = GAT_2L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 1)
+
+    elif model_type == "GAT_2L_2H_Model":
+        net = GAT_2L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 2)
+    
+    elif model_type == "GAT_2L_4H_Model":
+        net = GAT_2L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 4)
+    
     elif model_type == "GCN_1L_Model":
         net = GCN_1L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
     
     elif model_type == "SAGE_1L_Model":
         net = SAGE_1L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device)
+
+    elif model_type == "GAT_1L_1H_Model":
+        net = GAT_1L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 1)
+
+    elif model_type == "GAT_1L_2H_Model":
+        net = GAT_1L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 2)    
+
+    elif model_type == "GAT_1L_4H_Model":
+        net = GAT_1L_Model(dim_embedding, hidden_dim, number_classes, dropout, torch_device, 4)        
     
     else:
         raise KeyError(f"{model_type} is an invalid model_type!")
