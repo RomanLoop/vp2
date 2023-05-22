@@ -460,6 +460,31 @@ def gen_q_dict_mis(nx_G, penalty=2):
     return Q_dic
 
 
+def gen_q_dict_mis_sharpe_reward(nx_G, rewards:list, penalty=2):
+    """
+    Helper function to generate QUBO matrix for MIS as minimization problem.
+    
+    Input:
+        nx_G: graph as networkx graph object (assumed to be unweigthed)
+    Output:
+        Q_dic: QUBO as defaultdict
+    """
+
+    # Initialize our Q matrix
+    Q_dic = defaultdict(int)
+
+    # Update Q matrix for every edge in the graph
+    # all off-diagonal terms get penalty
+    for (u, v) in nx_G.edges:
+        Q_dic[(u, v)] = penalty
+
+    # all diagonal terms get -1
+    for u, r in zip(nx_G.nodes, rewards):
+        Q_dic[(u, u)] = r
+
+    return Q_dic
+
+
 # Run classical MIS solver (provided by NetworkX)
 def run_mis_solver(nx_graph):
     """
