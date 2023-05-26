@@ -48,6 +48,19 @@ def annualized_sortino_ratio(df_returns:pd.DataFrame, risk_free_rate:float, name
     return s
 
 
+def max_drawdown_series(df_returns:pd.DataFrame):
+    """ Returns a dataframe with max drawdowns.
+        Args:
+            df (pd.DataFrame): Dataframe with datetime index and asset returns as columns
+        Returns:
+            pd.DataFrame: Maximal Drawdowns 
+    """
+    df_returns_cum = (df_returns + 1).cumprod() - 1
+    df_peak = df_returns_cum.expanding(min_periods=1).max()
+    df_drawdown = df_returns_cum - df_peak
+    return df_drawdown
+
+
 def annualized_max_drawdown(df_returns:pd.DataFrame, name:str) -> pd.DataFrame:
     """ Returns a dataframe with annualized max drawdowns.
         Args:
@@ -56,7 +69,7 @@ def annualized_max_drawdown(df_returns:pd.DataFrame, name:str) -> pd.DataFrame:
         Returns:
             pd.DataFrame: Annualized Maximal Drawdowns 
     """
-    df_returns_cum = df_returns.cumsum()
+    df_returns_cum = (df_returns + 1).cumprod() - 1
     df_peak = df_returns_cum.expanding(min_periods=1).max()
     df_drawdown = df_returns_cum - df_peak
     s = df_drawdown.groupby(df_drawdown.index.year).min()
@@ -102,21 +115,21 @@ def portfolio_return(df:pd.DataFrame, assets:list) -> Tuple[pd.Series, pd.Series
 
     returns = df_returns.loc[:,assets].mean(axis=1)
 
-    return returns, returns.cumsum()
+    return returns, (returns + 1).cumprod() -1
 
 
-def drawdown(series):
-    """ """
-    roll_max = series.rolling(window=len(series), min_periods=1).max()
-    return series / roll_max - 1.0
+# def drawdown(series):
+#     """ """
+#     roll_max = series.rolling(window=len(series), min_periods=1).max()
+#     return series / roll_max - 1.0
 
 
-def drawdown_pct(return_series):
-    rs_max = return_series.rolling(
-        window=len(return_series), 
-        min_periods=1
-        ).max()
-    return return_series - rs_max
+# def drawdown_pct(return_series):
+#     rs_max = return_series.rolling(
+#         window=len(return_series), 
+#         min_periods=1
+#         ).max()
+#     return return_series - rs_max
 
 
 def sharpe_ratio(return_series, N=N_TRADING_DAYS, rf=RISK_FREE_RATE):

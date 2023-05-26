@@ -460,7 +460,7 @@ def gen_q_dict_mis(nx_G, penalty=2):
     return Q_dic
 
 
-def gen_q_dict_mis_sharpe_reward(nx_G, rewards:list, penalty=2):
+def gen_q_dict_mis_handcrafted(nx_G, rewards:list, penalty=2):
     """
     Helper function to generate QUBO matrix for MIS as minimization problem.
     
@@ -479,6 +479,9 @@ def gen_q_dict_mis_sharpe_reward(nx_G, rewards:list, penalty=2):
         Q_dic[(u, v)] = penalty
 
     # all diagonal terms get -1
+    assert len(nx_G.nodes) == len(rewards), 'Length miss match!\n' \
+        f'Lenth of rewards ({len(rewards)}) does not match number of nodes ({len(nx_G.nodes)})'
+    
     for u, r in zip(nx_G.nodes, rewards):
         Q_dic[(u, u)] = r
 
