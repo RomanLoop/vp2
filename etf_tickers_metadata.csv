@@ -1,0 +1,2601 @@
+ticker,volume,category
+AAA,1687,Ultrashort Bond
+AADR,7744,Foreign Large Growth
+AAPB,9493,Trading--Leveraged Equity
+AAPD,55019,Trading--Inverse Equity
+AAPU,81302,Trading--Leveraged Equity
+AAXJ,448697,Pacific/Asia ex-Japan Stk
+ABEQ,1013,Large Value
+ACES,204228,Miscellaneous Sector
+ACSI,13,Large Blend
+ACTV,2129,Small Value
+ACVF,28914,Large Blend
+ACWX,800557,Foreign Large Blend
+ADIV,27,Pacific/Asia ex-Japan Stk
+ADME,53146,Long-Short Equity
+ADPV,226,Large Blend
+AEMB,825,Emerging Markets Bond
+AESR,16593,Large Blend
+AFIF,54719,Multisector Bond
+AFK,4630,Miscellaneous Region
+AFLG,405,Large Blend
+AFMC,187,Mid-Cap Blend
+AFSM,80,Small Blend
+AFTY,135,China Region
+AGG,5051777,Intermediate-Term Bond
+AGGH,719,Intermediate-Term Bond
+AGGY,53464,Intermediate-Term Bond
+AGIH,0,Inflation-Protected Bond
+AGNG,157,Health
+AGOV,4,Emerging Markets Bond
+AGOX,6813,Tactical Allocation
+AGQ,496323,Trading--Leveraged Commodities
+AGRH,70,Intermediate-Term Bond
+AGZ,805928,Short Government
+AGZD,41241,Nontraditional Bond
+AHOY,1,Miscellaneous Sector
+AHYB,363,High Yield Bond
+AIA,18641,Pacific/Asia ex-Japan Stk
+AIDB,1742,Large Blend
+AIEQ,18596,Large Growth
+AILG,228,Large Growth
+AILV,17,Large Blend
+AIQ,202265,Technology
+AIRR,75055,Industrials
+AIVI,1202,Foreign Large Value
+AIVL,3024,Large Value
+ALTL,125074,Large Value
+ALTY,12231,Allocation--85%+ Equity
+AMAX,6103,Nontraditional Bond
+AMID,161,Mid-Cap Blend
+AMLP,1037908,Energy Limited Partnership
+AMOM,1269,Large Growth
+AMPD,224,Managed Futures
+AMZA,26700,Energy Limited Partnership
+AMZD,9852,Trading--Inverse Equity
+AMZU,115653,Trading--Leveraged Equity
+ANEW,1246,Technology
+ANGL,1038060,High Yield Bond
+AOA,72127,World Allocation
+AOK,100331,Allocation--30% to 50% Equity
+AOM,80847,Allocation--30% to 50% Equity
+AOR,194916,Allocation--50% to 70% Equity
+AOTG,264,Technology
+APIE,916,Foreign Large Blend
+APMU,2424,Muni National Interm
+APUE,1455,Large Blend
+AQWA,43,Natural Resources
+ARCM,3,Ultrashort Bond
+ARGT,10973,Miscellaneous Region
+ARKF,451796,Technology
+ARKG,753695,Health
+ARKK,9628538,Mid-Cap Growth
+ARKQ,366542,Technology
+ARKW,212075,Technology
+ARKX,32345,Technology
+ARMR,7683,Large Blend
+ARP,55136,Tactical Allocation
+ARVR,1,Technology
+ASEA,2942,Pacific/Asia ex-Japan Stk
+ASHR,1630111,China Region
+ASHS,903,China Region
+ASHX,1601,China Region
+ASPY,3687,Long-Short Equity
+ATFV,6,Large Growth
+AUSF,1254,Mid-Cap Value
+AVDE,158079,Foreign Large Blend
+AVDV,223936,Foreign Small/Mid Value
+AVEM,157626,Diversified Emerging Mkts
+AVES,23508,Diversified Emerging Mkts
+AVIE,205,Large Blend
+AVIG,38417,Intermediate-Term Bond
+AVIV,7075,Foreign Large Value
+AVLV,47056,Large Value
+AVMU,3270,Muni National Interm
+AVRE,18705,Global Real Estate
+AVSC,66484,Small Value
+AVSD,1940,Foreign Large Blend
+AVSE,1560,Diversified Emerging Mkts
+AVSF,19665,Short-Term Bond
+AVSU,7276,Large Blend
+AVUS,270177,Large Blend
+AVUV,519500,Small Value
+AWAY,34321,Consumer Cyclical
+AWEG,1,Mid-Cap Growth
+BAB,73473,Long-Term Bond
+BABX,24599,Trading--Leveraged Equity
+BAD,250,Miscellaneous Sector
+BATT,16438,Natural Resources
+BBAG,143568,Intermediate-Term Bond
+BBAX,83872,Pacific/Asia ex-Japan Stk
+BBC,781,Health
+BBCA,57291,Miscellaneous Region
+BBCB,136,Corporate Bond
+BBEM,4,Diversified Emerging Mkts
+BBEU,164927,Europe Stock
+BBH,3562,Health
+BBHY,38345,High Yield Bond
+BBIB,1,Long Government
+BBIN,116943,Foreign Large Blend
+BBIP,3500,Inflation-Protected Bond
+BBJP,237275,Japan Stock
+BBLB,3000,Long Government
+BBLU,85680,Large Blend
+BBMC,86700,Mid-Cap Blend
+BBP,190,Health
+BBRE,6184,Real Estate
+BBSA,1025,Short-Term Bond
+BBSB,1000,Short Government
+BBSC,449,Small Blend
+BBUS,25190,Large Blend
+BCD,41552,Commodities Broad Basket
+BCI,302093,Commodities Broad Basket
+BDGS,5,Large Blend
+BDRY,223381,Miscellaneous Region
+BEDZ,15,Consumer Cyclical
+BEMB,370,Emerging Markets Bond
+BETZ,20181,Consumer Cyclical
+BFIX,10,Intermediate-Term Bond
+BFOR,706,Mid-Cap Blend
+BFTR,1740,Mid-Cap Growth
+BIB,5340,Trading--Leveraged Equity
+BIBL,30503,Large Blend
+BICK,1275,Diversified Emerging Mkts
+BIGB,684,Financial
+BIGT,2843,Technology
+BIL,7955812,Ultrashort Bond
+BILS,567642,Ultrashort Bond
+BINC,86324,Nontraditional Bond
+BIS,1226,Trading--Inverse Equity
+BITI,331871,Trading--Miscellaneous
+BIV,540678,Intermediate-Term Bond
+BIZD,89180,Financial
+BJK,20532,Consumer Cyclical
+BKAG,20088,Intermediate-Term Bond
+BKCI,847,Foreign Large Growth
+BKEM,3520,Diversified Emerging Mkts
+BKES,2,Diversified Emerging Mkts
+BKF,1387,Diversified Emerging Mkts
+BKGI,768,Infrastructure
+BKHY,22953,High Yield Bond
+BKIE,9102,Foreign Large Blend
+BKIS,0,Foreign Large Blend
+BKIV,20,Large Growth
+BKLC,63452,Large Blend
+BKLN,5896316,Bank Loan
+BKMC,1424,Mid-Cap Blend
+BKSB,482,Short-Term Bond
+BKSE,1278,Small Blend
+BKUI,3147,Ultrashort Bond
+BKUS,1,Large Blend
+BKWO,4,Large Blend
+BLCV,3662,Large Value
+BLDG,868,Real Estate
+BLHY,37,High Yield Bond
+BLLD,4,Infrastructure
+BLV,354044,Long-Term Bond
+BMED,35,Health
+BND,2892325,Intermediate-Term Bond
+BNDC,6423,Intermediate-Term Bond
+BNDD,14393,Long Government
+BNDI,4705,Multisector Bond
+BNE,14,Miscellaneous Sector
+BNGE,1782,Technology
+BOAT,5874,Industrials
+BOIL,84116396,Trading--Leveraged Commodities
+BOSS,688,Mid-Cap Growth
+BOTZ,1146678,Miscellaneous Sector
+BOUT,722,Mid-Cap Growth
+BOXX,12916,Ultrashort Bond
+BPAY,15,Technology
+BRF,9806,Latin America Stock
+BRLN,1,Bank Loan
+BRNY,142,Large Blend
+BRZU,58915,Trading--Leveraged Equity
+BSEA,102,Foreign Small/Mid Growth
+BSJN,93886,High Yield Bond
+BSJO,77053,High Yield Bond
+BSJP,48090,High Yield Bond
+BSJQ,16216,High Yield Bond
+BSJR,20648,High Yield Bond
+BSJS,13525,High Yield Bond
+BSJT,2516,High Yield Bond
+BSJU,918,High Yield Bond
+BSR,14000,Large Blend
+BSV,1300947,Short-Term Bond
+BSVO,157129,Small Value
+BTEC,777,Health
+BTEK,587,Technology
+BTHM,7,Large Growth
+BTR,14000,Large Blend
+BUCK,4990,Intermediate Government
+BUFF,33334,Large Blend
+BUG,116795,Technology
+BUL,2523,Mid-Cap Blend
+BULD,70,Technology
+BUZZ,5094,Large Growth
+BWEB,11,Technology
+BWX,790935,World Bond
+BWZ,245708,World Bond
+BYRE,41,Real Estate
+BZQ,6555,Trading--Inverse Equity
+CACG,3312,Large Growth
+CAFG,634,Small Growth
+CALF,237863,Small Value
+CAMX,3,Large Value
+CAOS,201,Large Blend
+CAPE,7520,Large Blend
+CARY,990,Multisector Bond
+CARZ,2586,Consumer Cyclical
+CATH,6465,Large Blend
+CBLS,0,Long-Short Equity
+CBON,1558,Emerging-Markets Local-Currency Bond
+CBSE,645,Small Growth
+CCRV,1370,Commodities Broad Basket
+CCSO,1458,Large Blend
+CDC,91393,Large Value
+CDEI,100,Large Blend
+CDL,12971,Large Value
+CDX,47696,High Yield Bond
+CEFA,8,Foreign Large Blend
+CEFS,14282,Tactical Allocation
+CEMB,15957,Emerging Markets Bond
+CETF,1,Large Blend
+CEW,132,Emerging-Markets Local-Currency Bond
+CFA,3886,Large Blend
+CFCV,6,Large Blend
+CFO,83775,Large Blend
+CGDV,734939,Large Value
+CGGR,574054,Large Growth
+CGMS,41599,Multisector Bond
+CGMU,18876,Muni National Interm
+CGSD,386378,Short-Term Bond
+CGUS,153853,Large Blend
+CGV,6156,Foreign Small/Mid Value
+CGW,33440,Natural Resources
+CGXU,335873,Foreign Large Growth
+CHAT,224007,Technology
+CHAU,42026,Trading--Leveraged Equity
+CHB,514,China Region
+CHGX,2834,Large Blend
+CHIC,259,China Region
+CHIE,232550,China Region
+CHIH,12,China Region
+CHII,217,China Region
+CHIK,1710,China Region
+CHIM,2361,China Region
+CHIQ,50284,China Region
+CHIR,506,China Region
+CHIS,556,China Region
+CHIU,555,China Region
+CHIX,2789,China Region
+CHNA,1,China Region
+CIBR,919645,Technology
+CID,99,Foreign Large Value
+CIL,439,Foreign Large Blend
+CIZ,4069,Foreign Large Blend
+CLDL,119341,Trading--Leveraged Equity
+CLIX,4032,Long-Short Equity
+CLNR,49401,Industrials
+CLOA,10615,Ultrashort Bond
+CLOI,130414,Ultrashort Bond
+CLOU,223434,Technology
+CLOZ,868,Bank Loan
+CLRG,8,Large Blend
+CLSA,3774,Allocation--70% to 85% Equity
+CLSC,4971,Tactical Allocation
+CLSE,314,Long-Short Equity
+CLSM,6507,Allocation--50% to 70% Equity
+CLTL,88311,Ultrashort Bond
+CMBS,58894,Intermediate-Term Bond
+CMDT,38720,Commodities Broad Basket
+CMDY,21963,Commodities Broad Basket
+CMF,110354,Muni California Long
+CN,616,China Region
+CNBS,251489,Miscellaneous Sector
+CNCR,1415,Health
+CNRG,23319,Equity Energy
+CNXT,1377,China Region
+CNYA,95547,China Region
+COM,71273,Commodities Broad Basket
+COMB,41609,Commodities Broad Basket
+COMT,135602,Commodities Broad Basket
+CONL,82841,Trading--Leveraged Equity
+COPJ,2440,Natural Resources
+COPX,601270,Natural Resources
+CORP,19168,Corporate Bond
+COWG,22004,Large Blend
+COWZ,1189557,Mid-Cap Value
+CPI,6137,Inflation-Protected Bond
+CPII,1,Inflation-Protected Bond
+CQQQ,141115,China Region
+CRAK,9175,Equity Energy
+CRED,1,Real Estate
+CRIT,1055,Equity Precious Metals
+CRUZ,21704,Consumer Cyclical
+CSA,503,Small Blend
+CSB,15511,Small Value
+CSD,31,Mid-Cap Blend
+CSF,9074,Small Blend
+CSHI,767,Ultrashort Bond
+CSM,3877,Large Blend
+CSML,1055,Small Value
+CTA,74207,Managed Futures
+CTEC,6953,Miscellaneous Sector
+CTEX,120,Technology
+CUBS,4181,Pacific/Asia ex-Japan Stk
+CURE,50971,Trading--Leveraged Equity
+CUT,2813,Natural Resources
+CVAR,1,Mid-Cap Value
+CVIE,2292,Foreign Large Blend
+CVLC,203275,Large Blend
+CVMC,4,Mid-Cap Blend
+CVSB,509,Ultrashort Bond
+CVSE,23,Large Blend
+CVY,16515,Allocation--85%+ Equity
+CWB,838766,Convertibles
+CWEB,748779,Trading--Leveraged Equity
+CWI,219084,Foreign Large Blend
+CWS,2570,Mid-Cap Blend
+CXSE,46558,China Region
+CYA,8829,Allocation--50% to 70% Equity
+CYB,1244,Single Currency
+CZA,1921,Mid-Cap Blend
+DALI,3180,Tactical Allocation
+DAT,597,Technology
+DAX,6864,Miscellaneous Region
+DBAW,11290,Foreign Large Blend
+DBC,393671,Commodities Broad Basket
+DBEF,264380,Foreign Large Blend
+DBEH,7649,Long-Short Equity
+DBEM,4313,Diversified Emerging Mkts
+DBEU,40969,Europe Stock
+DBEZ,52742,Europe Stock
+DBGR,213,Miscellaneous Region
+DBJP,53066,Japan Stock
+DBMF,881901,Managed Futures
+DCMB,800,Short-Term Bond
+DDIV,1980,Mid-Cap Value
+DDLS,28841,Foreign Small/Mid Value
+DDM,319873,Trading--Leveraged Equity
+DDWM,22275,Foreign Large Value
+DEED,20993,Multisector Bond
+DEEF,17683,Foreign Large Blend
+DEEP,353,Small Value
+DEF,2486,Large Blend
+DEHP,6292,Diversified Emerging Mkts
+DEIF,159,Large Blend
+DEM,170204,Diversified Emerging Mkts
+DEMZ,325,Large Blend
+DES,70859,Small Value
+DEUS,7274,Mid-Cap Blend
+DFAC,2252122,Large Blend
+DFAE,260801,Diversified Emerging Mkts
+DFAI,456190,Foreign Large Blend
+DFAR,205657,Real Estate
+DFAS,130335,Small Blend
+DFAT,686676,Small Value
+DFAU,267266,Large Blend
+DFAX,319570,Foreign Large Blend
+DFCF,178057,Intermediate-Term Bond
+DFE,24485,Europe Stock
+DFEM,1670348,Diversified Emerging Mkts
+DFEN,122345,Trading--Leveraged Equity
+DFEV,177599,Diversified Emerging Mkts
+DFGR,1297364,Global Real Estate
+DFHY,4449,High Yield Bond
+DFIC,1595222,Foreign Large Blend
+DFIP,14167,Inflation-Protected Bond
+DFIS,98878,Foreign Small/Mid Blend
+DFIV,503789,Foreign Large Value
+DFJ,34754,Japan Stock
+DFLV,434114,Large Value
+DFND,93,Long-Short Equity
+DFNL,23078,Financial
+DFNM,37092,Muni National Interm
+DFNV,6726,Technology
+DFRA,6433,Large Value
+DFSD,218277,Short-Term Bond
+DFSE,17363,Diversified Emerging Mkts
+DFSI,33875,Foreign Large Blend
+DFSU,77387,Large Blend
+DFSV,266948,Small Value
+DFUS,137860,Large Blend
+DFUV,199992,Large Value
+DGIN,22,India Equity
+DGRE,4597,Diversified Emerging Mkts
+DGRO,1027113,Large Value
+DGRS,6720,Small Value
+DGRW,525319,Large Blend
+DGS,56483,Diversified Emerging Mkts
+DHS,56447,Large Value
+DIA,2301876,Large Value
+DIAL,135284,Multisector Bond
+DIEM,605,Diversified Emerging Mkts
+DIG,62442,Trading--Leveraged Equity
+DIHP,773069,Foreign Large Blend
+DIM,1049,Foreign Small/Mid Value
+DINT,36140,Foreign Large Blend
+DIP,217,Large Blend
+DISV,920709,Foreign Small/Mid Value
+DIV,75663,Mid-Cap Value
+DIVB,19931,Large Value
+DIVI,50311,Foreign Large Value
+DIVY,2990,Large Value
+DIVZ,363,Large Value
+DJD,23204,Large Value
+DJIA,21363,Large Blend
+DLN,94567,Large Value
+DLS,16812,Foreign Small/Mid Value
+DMAT,621,Natural Resources
+DMBS,1216,Intermediate-Term Bond
+DMCY,67548,Foreign Large Blend
+DMDV,18,Foreign Large Value
+DMXF,9485,Foreign Large Blend
+DNL,35736,Foreign Large Growth
+DOG,504470,Trading--Inverse Equity
+DOGG,330,Large Value
+DOL,16695,Foreign Large Value
+DON,84386,Mid-Cap Value
+DPST,15213647,Trading--Leveraged Equity
+DRIP,888350,Trading--Inverse Equity
+DRIV,200536,Miscellaneous Sector
+DRLL,25714,Equity Energy
+DRN,320360,Trading--Leveraged Equity
+DRSK,41834,Short-Term Bond
+DRV,135269,Trading--Inverse Equity
+DSCF,1200,Allocation--30% to 50% Equity
+DSI,82189,Large Blend
+DSJA,1,Trading--Miscellaneous
+DSMC,31111,Small Value
+DSOC,313,Trading--Miscellaneous
+DSTL,37786,Large Blend
+DSTX,31656,Foreign Large Blend
+DTD,20667,Large Value
+DTEC,9783,Technology
+DTH,32167,Foreign Large Value
+DTRE,775,Global Real Estate
+DUDE,5348,Tactical Allocation
+DUG,128729,Trading--Inverse Equity
+DUHP,1144615,Large Blend
+DURA,12960,Large Value
+DUSA,110110,Large Blend
+DUSL,3349,Trading--Leveraged Equity
+DUST,6953578,Trading--Inverse Equity
+DVAL,5035,Large Value
+DVLU,900,Mid-Cap Value
+DVND,185,Large Value
+DVOL,9079,Large Blend
+DVY,651408,Large Value
+DVYA,1580,Pacific/Asia ex-Japan Stk
+DVYE,52841,Diversified Emerging Mkts
+DWAS,20848,Small Growth
+DWAT,2,Tactical Allocation
+DWAW,573,Large Blend
+DWCR,10,Foreign Large Growth
+DWM,18378,Foreign Large Value
+DWMC,376,Small Blend
+DWMF,1788,Foreign Large Blend
+DWSH,54315,Trading--Inverse Equity
+DWUS,7,Large Growth
+DWX,6580,Foreign Large Value
+DXD,251008,Trading--Inverse Equity
+DXGE,1576,Miscellaneous Region
+DXJ,204935,Japan Stock
+DXJS,3476,Japan Stock
+DYLD,6196,Multisector Bond
+DYNF,626,Large Blend
+DYTA,6311,World Allocation
+EAFD,757,Foreign Large Blend
+EAGG,93410,Intermediate-Term Bond
+EAOA,151,Allocation--70% to 85% Equity
+EAOK,105,Allocation--30% to 50% Equity
+EAOM,992,Allocation--30% to 50% Equity
+EAOR,19,Allocation--50% to 70% Equity
+EASG,1576,Foreign Large Blend
+EATV,28,Consumer Defensive
+EATZ,739,Consumer Cyclical
+EBIZ,2101,Consumer Cyclical
+EBLU,1670,Natural Resources
+EBND,261741,Emerging-Markets Local-Currency Bond
+ECH,218922,Miscellaneous Region
+ECLN,1496,Utilities
+ECML,1712,Large Value
+ECNS,4883,China Region
+ECON,13329,Diversified Emerging Mkts
+ECOW,9842,Diversified Emerging Mkts
+ECOZ,1,Large Growth
+EDC,40724,Trading--Leveraged Equity
+EDEN,8843,Miscellaneous Region
+EDIV,6474,Diversified Emerging Mkts
+EDOC,14778,Health
+EDOG,31,Diversified Emerging Mkts
+EDOW,14373,Large Value
+EDV,254054,Long Government
+EDZ,105511,Trading--Inverse Equity
+EELV,103791,Diversified Emerging Mkts
+EEM,19429606,Diversified Emerging Mkts
+EEMA,15538,Pacific/Asia ex-Japan Stk
+EEMD,156,Diversified Emerging Mkts
+EEMO,183,Diversified Emerging Mkts
+EEMS,5765,Diversified Emerging Mkts
+EEMV,334828,Diversified Emerging Mkts
+EEMX,2071,Diversified Emerging Mkts
+EES,13245,Small Value
+EET,990,Trading--Leveraged Equity
+EEV,1902,Trading--Inverse Equity
+EFA,20157084,Foreign Large Blend
+EFAD,6802,Foreign Large Growth
+EFAS,3505,Foreign Large Value
+EFAV,153027,Foreign Large Blend
+EFAX,4827,Foreign Large Blend
+EFG,1590776,Foreign Large Growth
+EFIV,12918,Large Blend
+EFIX,4912,Emerging Markets Bond
+EFNL,103793,Miscellaneous Region
+EFO,13824,Trading--Leveraged Equity
+EFRA,550,Infrastructure
+EFU,4425,Trading--Inverse Equity
+EFV,999442,Foreign Large Value
+EFZ,322050,Trading--Inverse Equity
+EGIS,62,Large Blend
+EGPT,148,Miscellaneous Region
+EGUS,1,Large Growth
+EIDO,312375,Miscellaneous Region
+EINC,726,Energy Limited Partnership
+EIPX,1161,Equity Energy
+EIRL,22145,Miscellaneous Region
+EIS,3311,Miscellaneous Region
+EKG,49,Health
+ELD,1921,Emerging-Markets Local-Currency Bond
+ELQD,9,Corporate Bond
+EMB,6368903,Emerging Markets Bond
+EMBD,4153,Emerging Markets Bond
+EMC,132428,Diversified Emerging Mkts
+EMCA,200,Large Value
+EMCB,17244,Emerging Markets Bond
+EMCH,2,Diversified Emerging Mkts
+EMCR,220,Diversified Emerging Mkts
+EMDM,1,Diversified Emerging Mkts
+EMDV,291,Diversified Emerging Mkts
+EMFM,366,Diversified Emerging Mkts
+EMFQ,107,Foreign Large Growth
+EMGC,0,Large Growth
+EMGD,2,Diversified Emerging Mkts
+EMGF,112256,Diversified Emerging Mkts
+EMHC,1977,Emerging Markets Bond
+EMHY,20422,Emerging Markets Bond
+EMIF,131,Diversified Emerging Mkts
+EMLC,1191678,Emerging-Markets Local-Currency Bond
+EMLP,297059,Energy Limited Partnership
+EMM,304,Diversified Emerging Mkts
+EMMF,5,Diversified Emerging Mkts
+EMNT,10549,Ultrashort Bond
+EMPW,0,Large Blend
+EMQQ,54338,Diversified Emerging Mkts
+EMSG,1,Diversified Emerging Mkts
+EMTL,2981,Emerging Markets Bond
+EMTY,10520,Trading--Inverse Equity
+EMXC,637584,Diversified Emerging Mkts
+EMXF,1373,Diversified Emerging Mkts
+ENFR,7858,Energy Limited Partnership
+ENOR,28347,Miscellaneous Region
+ENRG,149,Miscellaneous Sector
+ENTR,37,Large Growth
+ENZL,17466,Miscellaneous Region
+EPHE,40055,Miscellaneous Region
+EPI,300712,India Equity
+EPOL,164481,Miscellaneous Region
+EPP,239245,Pacific/Asia ex-Japan Stk
+EPRF,11297,Preferred Stock
+EPS,8764,Large Blend
+EPU,89878,Miscellaneous Region
+EPV,253485,Trading--Inverse Equity
+EQAL,22205,Mid-Cap Blend
+EQL,11316,Large Blend
+EQOP,0,Large Blend
+EQRR,1117,Large Value
+EQUL,2,Large Value
+EQWL,82127,Large Value
+ERET,5,Global Real Estate
+ERM,2,Large Value
+ERSX,1,Foreign Small/Mid Growth
+ERTH,9551,Miscellaneous Sector
+ERX,941612,Trading--Leveraged Equity
+ERY,271852,Trading--Inverse Equity
+ESCR,7,Corporate Bond
+ESEB,938,Emerging Markets Bond
+ESG,74,Large Blend
+ESGA,2937,Large Blend
+ESGD,262676,Foreign Large Blend
+ESGE,437722,Diversified Emerging Mkts
+ESGN,14,Foreign Large Value
+ESGS,23,Large Value
+ESGU,270783,Large Blend
+ESGV,86858,Large Blend
+ESGY,500,Large Growth
+ESHY,175,High Yield Bond
+ESIX,15303,Small Blend
+ESML,45906,Small Blend
+ESMV,1,Large Blend
+ESPO,11038,Technology
+ETEC,19,Technology
+ETHO,2831,Mid-Cap Growth
+EUDG,8548,Europe Stock
+EUDV,3686,Europe Stock
+EUFN,574684,Financial
+EUM,33328,Trading--Inverse Equity
+EUO,35982,Trading--Miscellaneous
+EURL,34571,Trading--Leveraged Equity
+EUSA,8525,Large Blend
+EUSC,543,Europe Stock
+EVAV,51396,Trading--Leveraged Equity
+EVUS,300,Large Value
+EVX,1114,Industrials
+EWA,1174325,Miscellaneous Region
+EWC,1497347,Miscellaneous Region
+EWCO,7440,Communications
+EWD,200924,Miscellaneous Region
+EWEB,11,Diversified Emerging Mkts
+EWG,3505981,Miscellaneous Region
+EWGS,2017,Miscellaneous Region
+EWH,2129152,China Region
+EWI,478390,Miscellaneous Region
+EWJ,6129681,Japan Stock
+EWJV,96178,Japan Stock
+EWK,45202,Miscellaneous Region
+EWL,460258,Miscellaneous Region
+EWM,149009,Miscellaneous Region
+EWMC,3408,Small Blend
+EWN,77469,Miscellaneous Region
+EWO,6319,Miscellaneous Region
+EWP,86338,Miscellaneous Region
+EWQ,3056927,Miscellaneous Region
+EWRE,3403,Real Estate
+EWS,286371,Miscellaneous Region
+EWT,1942494,China Region
+EWU,4353777,Miscellaneous Region
+EWUS,4230,Miscellaneous Region
+EWV,11613,Trading--Inverse Equity
+EWW,1227811,Miscellaneous Region
+EWX,70748,Diversified Emerging Mkts
+EWY,2223318,Miscellaneous Region
+EWZ,21770968,Latin America Stock
+EWZS,47773,Latin America Stock
+EXI,799444,Industrials
+EYLD,5421,Diversified Emerging Mkts
+EZA,123733,Miscellaneous Region
+EZJ,4587,Trading--Leveraged Equity
+EZM,7564,Mid-Cap Value
+EZU,7933372,Europe Stock
+FAAR,7795,Commodities Broad Basket
+FAB,49110,Mid-Cap Value
+FAD,675,Mid-Cap Growth
+FAIL,0,Trading--Inverse Equity
+FALN,488950,High Yield Bond
+FAN,54023,Miscellaneous Sector
+FAS,796195,Trading--Leveraged Equity
+FAZ,1293332,Trading--Inverse Equity
+FBCG,103497,Large Growth
+FBCV,33470,Large Value
+FBL,10387,Trading--Leveraged Equity
+FBT,17047,Health
+FBZ,3864,Latin America Stock
+FCA,1589,China Region
+FCAL,40712,Muni California Long
+FCEF,8440,World Allocation
+FCG,132071,Equity Energy
+FCLD,18926,Technology
+FCOM,42293,Communications
+FCOR,4315,Corporate Bond
+FCPI,14168,Large Blend
+FCSH,1,Short-Term Bond
+FCTR,109967,Large Blend
+FCUS,0,Large Blend
+FCVT,10596,Convertibles
+FDAT,8900,Allocation--50% to 70% Equity
+FDD,42777,Europe Stock
+FDEM,3231,Diversified Emerging Mkts
+FDEV,3445,Foreign Large Blend
+FDG,15706,Large Growth
+FDHT,1851,Health
+FDHY,12528,High Yield Bond
+FDIS,53655,Consumer Cyclical
+FDL,1179656,Large Value
+FDLO,12959,Large Blend
+FDLS,2899,Large Blend
+FDM,4791,Small Value
+FDMO,251934,Large Growth
+FDN,196493,Technology
+FDNI,1112,Diversified Emerging Mkts
+FDRR,19682,Large Value
+FDRV,9667,Industrials
+FDT,106042,Foreign Large Blend
+FDTS,13,Foreign Small/Mid Value
+FDV,11912,Large Value
+FDVV,77732,Large Value
+FDWM,544,Large Blend
+FEDM,105,Foreign Large Blend
+FEEM,105,Diversified Emerging Mkts
+FEHY,50,High Yield Bond
+FEIG,615,Corporate Bond
+FEM,41703,Diversified Emerging Mkts
+FEMB,28194,Emerging-Markets Local-Currency Bond
+FEMS,135711,Diversified Emerging Mkts
+FENY,565253,Equity Energy
+FEP,9121,Europe Stock
+FEUS,219,Large Blend
+FEUZ,342,Europe Stock
+FEX,9741,Large Blend
+FEZ,1993161,Europe Stock
+FFHG,3678,Long-Short Equity
+FFIU,335,Corporate Bond
+FFND,1188,Large Growth
+FFSG,620,Allocation--85%+ Equity
+FFTG,783,Tactical Allocation
+FFTI,3462,Multisector Bond
+FFTY,81345,Mid-Cap Growth
+FGD,234434,Foreign Large Value
+FGM,109,Miscellaneous Region
+FGRO,16133,Large Growth
+FHLC,197779,Health
+FHYS,18,High Yield Bond
+FIAX,4364,Nontraditional Bond
+FICS,3197,Foreign Large Growth
+FID,10270,Foreign Large Value
+FIDI,17443,Foreign Large Value
+FIDU,43836,Industrials
+FIG,620,Allocation--50% to 70% Equity
+FIGB,1511,Intermediate-Term Bond
+FILL,4636,Equity Energy
+FINX,26472,Technology
+FITE,391,Technology
+FIVA,11069,Foreign Large Value
+FIVG,28463,Communications
+FIVR,32,Allocation--15% to 30% Equity
+FIW,18190,Natural Resources
+FJP,4377,Japan Stock
+FKU,249,Miscellaneous Region
+FLAU,1866,Miscellaneous Region
+FLAX,6566,Pacific/Asia ex-Japan Stk
+FLBL,25713,Bank Loan
+FLBR,9530,Latin America Stock
+FLCA,12316,Miscellaneous Region
+FLCB,84001,Intermediate-Term Bond
+FLCH,16663,China Region
+FLCO,12400,Corporate Bond
+FLDR,17282,Ultrashort Bond
+FLDZ,0,Mid-Cap Blend
+FLEE,9801,Europe Stock
+FLEH,694,Europe Stock
+FLFR,162,Miscellaneous Region
+FLGB,191711,Miscellaneous Region
+FLGR,511,Miscellaneous Region
+FLGV,16930,Intermediate Government
+FLHK,365,China Region
+FLHY,8734,High Yield Bond
+FLIA,20438,World Bond
+FLIN,5016,India Equity
+FLIY,140,Miscellaneous Region
+FLJH,4076,Japan Stock
+FLJP,1006337,Japan Stock
+FLKR,2626,Miscellaneous Region
+FLLA,2582,Latin America Stock
+FLLV,9130,Large Blend
+FLMB,52,Muni National Long
+FLMI,6967,High Yield Muni
+FLMX,1731,Miscellaneous Region
+FLN,1793,Latin America Stock
+FLOT,1291851,Ultrashort Bond
+FLQL,20580,Large Blend
+FLQM,8752,Mid-Cap Blend
+FLQS,1258,Small Blend
+FLRG,2812,Large Blend
+FLRN,330615,Ultrashort Bond
+FLRT,4570,Bank Loan
+FLSA,38,Miscellaneous Region
+FLSW,3641,Miscellaneous Region
+FLTB,4594,Short-Term Bond
+FLTN,665,Inflation-Protected Bond
+FLTR,125334,Ultrashort Bond
+FLTW,8293,China Region
+FLUD,5,Ultrashort Bond
+FLV,3315,Large Value
+FLZA,15,Miscellaneous Region
+FM,212382,Diversified Emerging Mkts
+FMAG,14201,Large Growth
+FMAT,26097,Natural Resources
+FMB,120280,Muni National Interm
+FMCX,3,Large Blend
+FMET,1289,Technology
+FMF,5404,Managed Futures
+FMHI,28595,High Yield Muni
+FMIL,3389,Large Value
+FMNY,144,Muni New York Long
+FMQQ,1107,Diversified Emerging Mkts
+FNCL,74139,Financial
+FNDA,171781,Small Blend
+FNDB,12396,Large Value
+FNDC,145347,Foreign Small/Mid Value
+FNDE,400012,Diversified Emerging Mkts
+FNDF,656967,Foreign Large Value
+FNDX,245810,Large Value
+FNGG,17678,Trading--Leveraged Equity
+FNK,55815,Mid-Cap Value
+FNX,24464,Mid-Cap Blend
+FNY,25639,Mid-Cap Growth
+FORH,1,Mid-Cap Blend
+FOVL,571,Mid-Cap Value
+FPA,157,Pacific/Asia ex-Japan Stk
+FPE,1030344,Preferred Stock
+FPEI,159528,Preferred Stock
+FPFD,406,Preferred Stock
+FPRO,692,Real Estate
+FPX,16287,Large Growth
+FPXE,101,Europe Stock
+FPXI,7728,Foreign Large Growth
+FQAL,134888,Large Blend
+FRDM,70160,Diversified Emerging Mkts
+FREL,150509,Real Estate
+FRI,33583,Real Estate
+FRNW,6968,Miscellaneous Sector
+FRTY,1518,Mid-Cap Growth
+FSEC,108,Intermediate-Term Bond
+FSIG,173617,Short-Term Bond
+FSLD,2,Ultrashort Bond
+FSMB,308998,Muni National Short
+FSMD,9095,Small Blend
+FSMO,949,Mid-Cap Blend
+FSST,193,Large Blend
+FSTA,63124,Consumer Defensive
+FSYD,329,High Yield Bond
+FSZ,4016,Miscellaneous Region
+FTA,133721,Large Value
+FTAG,4666,Natural Resources
+FTBD,921,Multisector Bond
+FTC,18069,Large Growth
+FTCS,230447,Large Blend
+FTDS,1324,Mid-Cap Blend
+FTEC,286259,Technology
+FTGC,1300067,Commodities Broad Basket
+FTGS,200,Large Growth
+FTIF,105,Large Blend
+FTLS,101761,Long-Short Equity
+FTRI,86063,Natural Resources
+FTSD,1369,Short Government
+FTSL,213934,Bank Loan
+FTSM,1590336,Ultrashort Bond
+FTXG,115343,Consumer Defensive
+FTXH,1435,Health
+FTXL,86254,Technology
+FTXN,62395,Equity Energy
+FTXO,45140,Financial
+FTXR,753,Industrials
+FUMB,37442,Muni National Short
+FUNL,406,Large Value
+FUSI,200,Ultrashort Bond
+FUTY,125589,Utilities
+FV,903551,Mid-Cap Blend
+FVAL,19497,Large Value
+FVC,10170,Mid-Cap Blend
+FVD,672879,Large Value
+FXD,76047,Consumer Cyclical
+FXED,5671,Allocation--15% to 30% Equity
+FXG,46696,Consumer Defensive
+FXH,33528,Health
+FXI,24879704,China Region
+FXL,21794,Technology
+FXN,580479,Equity Energy
+FXO,105966,Financial
+FXP,10032,Trading--Inverse Equity
+FXR,112888,Industrials
+FXU,44350,Utilities
+FXZ,125307,Natural Resources
+FYC,5887,Small Growth
+FYLD,52533,Foreign Small/Mid Value
+FYLG,34,Financial
+FYT,49552,Small Value
+FYX,128171,Small Blend
+GAA,3869,World Allocation
+GABF,340,Financial
+GAL,3953,Allocation--50% to 70% Equity
+GAMR,1257,Technology
+GAST,1,Technology
+GBF,33128,Intermediate-Term Bond
+GBIL,602231,Ultrashort Bond
+GBLD,14,Global Real Estate
+GBUY,1975,Consumer Cyclical
+GCAD,42,Large Blend
+GCC,11654,Commodities Broad Basket
+GCLN,46,Equity Energy
+GCOR,37532,Intermediate-Term Bond
+GDE,1968,Large Blend
+GDIV,42642,Large Blend
+GDMA,5587,Allocation--50% to 70% Equity
+GDOC,2387,Health
+GDX,19641451,Equity Precious Metals
+GDXJ,3433314,Equity Precious Metals
+GEM,51273,Diversified Emerging Mkts
+GEMD,4735,Emerging Markets Bond
+GERM,1511,Health
+GFGF,517,Large Blend
+GGLL,52431,Trading--Leveraged Equity
+GGLS,13281,Trading--Inverse Equity
+GGRW,2,Technology
+GHTA,40296,Allocation--50% to 70% Equity
+GHYB,2057,High Yield Bond
+GHYG,31203,High Yield Bond
+GIGB,28693,Corporate Bond
+GII,14035,Infrastructure
+GINN,3954,Technology
+GK,2871,Large Growth
+GLCN,383,China Region
+GLDB,887,Nontraditional Bond
+GLIF,53,Infrastructure
+GLIN,2086,India Equity
+GLL,67887,Trading--Inverse Commodities
+GLRY,1785,Small Growth
+GMET,6545,Natural Resources
+GMF,8408,Pacific/Asia ex-Japan Stk
+GMOM,6920,Tactical Allocation
+GMUN,100,Muni National Interm
+GNMA,18211,Intermediate Government
+GNOM,38084,Health
+GNR,112458,Natural Resources
+GOAU,45674,Equity Precious Metals
+GOEX,16672,Equity Precious Metals
+GOVT,5492054,Intermediate Government
+GOVZ,47437,Long Government
+GPAL,16,Large Blend
+GQRE,21021,Global Real Estate
+GREI,207,Miscellaneous Sector
+GREK,40534,Miscellaneous Region
+GRES,2079,Natural Resources
+GRID,36023,Miscellaneous Sector
+GRNB,49750,World Bond
+GRNR,8,Global Real Estate
+GRZZ,813,Large Growth
+GSEE,16,Diversified Emerging Mkts
+GSEU,790,Europe Stock
+GSEW,16057,Large Blend
+GSID,10420,Foreign Large Blend
+GSIE,169659,Foreign Large Blend
+GSIG,38,Short-Term Bond
+GSJY,467,Japan Stock
+GSLC,159760,Large Blend
+GSPY,1624,Large Blend
+GSSC,14843,Small Blend
+GSST,19470,Ultrashort Bond
+GSUS,17918,Large Blend
+GSY,375921,Ultrashort Bond
+GTEK,17217,Technology
+GTIP,6301,Inflation-Protected Bond
+GTR,5021,Allocation--15% to 30% Equity
+GUNR,419071,Natural Resources
+GURU,701,Large Growth
+GUSA,1,Large Blend
+GUSH,250002,Trading--Leveraged Equity
+GVAL,1182,Foreign Small/Mid Value
+GVI,78451,Short-Term Bond
+GVIP,20593,Large Growth
+GVLU,3050,Mid-Cap Value
+GWX,90285,Foreign Small/Mid Blend
+GXC,25698,China Region
+GXG,8595,Miscellaneous Region
+GYLD,357,World Allocation
+HACK,58559,Technology
+HAIL,2434,Technology
+HAP,3513,Natural Resources
+HAPI,301,Large Blend
+HAPS,15,Small Blend
+HAPY,510,Mid-Cap Growth
+HARD,83,Commodities Broad Basket
+HART,126,Health
+HAUS,131,Real Estate
+HAUZ,51662,Global Real Estate
+HAWX,13546,Foreign Large Blend
+HCOM,4132,Commodities Broad Basket
+HCRB,3289,Intermediate-Term Bond
+HDAW,689,Foreign Large Value
+HDEF,104338,Foreign Large Value
+HDGE,206411,Trading--Inverse Equity
+HDMV,5074,Foreign Large Value
+HDRO,25241,Equity Energy
+HDUS,584,Large Blend
+HDV,532565,Large Value
+HEDJ,14206,Europe Stock
+HEEM,9602,Diversified Emerging Mkts
+HEET,0,Large Blend
+HEFA,552563,Foreign Large Blend
+HELX,736,Health
+HEQT,32078,Large Blend
+HERO,11518,Technology
+HEWC,443,Miscellaneous Region
+HEWG,7375,Miscellaneous Region
+HEWJ,147192,Japan Stock
+HEWU,59,Miscellaneous Region
+HEZU,14599,Europe Stock
+HFGO,25234,Large Growth
+HFXI,67120,Foreign Large Blend
+HGER,4519,Commodities Broad Basket
+HIBL,109699,Trading--Leveraged Equity
+HIBS,1859940,Trading--Inverse Equity
+HIDE,11060,Allocation--50% to 70% Equity
+HIDV,4,Large Value
+HIGH,17528,Intermediate Government
+HIPS,6804,Allocation--85%+ Equity
+HISF,6515,Allocation--30% to 50% Equity
+HIYS,10,High Yield Bond
+HJEN,1070,Natural Resources
+HKND,1654,Large Value
+HLAL,14613,Large Blend
+HLGE,2,Mid-Cap Blend
+HMOP,19896,Muni National Interm
+HNDL,65967,Allocation--30% to 50% Equity
+HOM,224,Allocation--15% to 30% Equity
+HOMZ,793,Mid-Cap Value
+HOTL,136,Consumer Cyclical
+HSCZ,32552,Foreign Small/Mid Blend
+HSMV,1070,Small Blend
+HSRT,21306,Short-Term Bond
+HSUN,1,Multisector Bond
+HTAB,15448,Intermediate-Term Bond
+HTEC,4454,Health
+HTUS,1971,Long-Short Equity
+HUSV,6592,Large Blend
+HVAL,1,Large Value
+HYBB,6982,High Yield Bond
+HYBL,2971,High Yield Bond
+HYD,534168,High Yield Muni
+HYDB,4460,High Yield Bond
+HYDR,24349,Miscellaneous Sector
+HYDW,2594,High Yield Bond
+HYEM,49155,Emerging Markets Bond
+HYFI,5611,High Yield Bond
+HYG,26736329,High Yield Bond
+HYGH,6416,High Yield Bond
+HYGI,0,Inflation-Protected Bond
+HYGV,58688,High Yield Bond
+HYGW,10940,High Yield Bond
+HYHG,2111,Nontraditional Bond
+HYIN,324,Nontraditional Bond
+HYLB,929114,High Yield Bond
+HYLD,12589,High Yield Bond
+HYLG,60,Health
+HYLS,134540,High Yield Bond
+HYMB,186641,High Yield Muni
+HYMU,4404,High Yield Muni
+HYRM,521,High Yield Bond
+HYS,120392,High Yield Bond
+HYTR,87,Multisector Bond
+HYUP,57,High Yield Bond
+HYXF,46314,High Yield Bond
+HYXU,7056,High Yield Bond
+HYZD,9002,Nontraditional Bond
+IAI,1319410,Financial
+IAK,19821,Financial
+IAT,750150,Financial
+IBB,1069950,Health
+IBBQ,1792,Health
+IBD,315718,Corporate Bond
+IBET,1440,Consumer Cyclical
+IBHC,30429,High Yield Bond
+IBHD,155949,High Yield Bond
+IBHE,35912,High Yield Bond
+IBHF,8509,High Yield Bond
+IBHG,4387,High Yield Bond
+IBHH,2641,High Yield Bond
+IBHI,1168,High Yield Bond
+IBND,175448,World Bond
+IBOT,147,Technology
+IBRN,200,Health
+IBUY,9816,Consumer Cyclical
+ICAP,9552,Large Value
+ICF,60030,Real Estate
+ICLN,1911349,Miscellaneous Sector
+ICLO,1,Ultrashort Bond
+ICOW,46941,Foreign Large Value
+ICSH,498658,Ultrashort Bond
+ICVT,87553,Convertibles
+IDAT,854,Technology
+IDEV,377298,Foreign Large Blend
+IDHQ,10936,Foreign Large Growth
+IDLV,14104,Foreign Large Blend
+IDMO,2030,Foreign Large Growth
+IDNA,6399,Health
+IDOG,21110,Foreign Large Value
+IDRV,58116,Industrials
+IDU,30961,Utilities
+IDUB,1644,Long-Short Equity
+IDV,533415,Foreign Large Value
+IDVO,3289,Foreign Large Blend
+IDX,4126,Miscellaneous Region
+IEDI,378,Consumer Cyclical
+IEF,15539836,Long Government
+IEFA,7355845,Foreign Large Blend
+IEI,931495,Intermediate Government
+IEMG,7694261,Diversified Emerging Mkts
+IEO,71958,Equity Energy
+IETC,4885,Technology
+IEUR,671035,Europe Stock
+IEUS,3911,Europe Stock
+IEV,173838,Europe Stock
+IEZ,327924,Equity Energy
+IFGL,33355,Global Real Estate
+IFRA,82598,Infrastructure
+IFV,180543,Foreign Large Blend
+IG,19800,Corporate Bond
+IGBH,1907,Ultrashort Bond
+IGE,1391784,Natural Resources
+IGEB,10397,Corporate Bond
+IGF,376910,Infrastructure
+IGHG,8391,Nontraditional Bond
+IGIB,1365073,Corporate Bond
+IGLB,371976,Long-Term Bond
+IGM,11110,Technology
+IGN,4507,Technology
+IGOV,190129,World Bond
+IGRO,19769,Foreign Large Blend
+IGSB,7101793,Short-Term Bond
+IGV,333138,Technology
+IHAK,32744,Technology
+IHDG,272344,Foreign Large Growth
+IHE,2244,Health
+IHF,20569,Health
+IHI,478669,Health
+IHY,56860,High Yield Bond
+IHYF,719,High Yield Bond
+IIGD,61556,Short-Term Bond
+IJH,887494,Mid-Cap Blend
+IJJ,1351035,Mid-Cap Value
+IJK,1146544,Mid-Cap Growth
+IJR,3606200,Small Blend
+IJS,155036,Small Value
+IJT,42844,Small Growth
+ILCB,10230,Large Blend
+ILCG,32267,Large Growth
+ILCV,8093,Large Value
+ILDR,4,Technology
+ILF,820951,Latin America Stock
+ILTB,29510,Long-Term Bond
+IMCB,5689,Mid-Cap Blend
+IMCG,94422,Mid-Cap Growth
+IMCV,14068,Mid-Cap Value
+IMFL,67145,Foreign Large Blend
+IMOM,269671,Foreign Large Growth
+IMSI,2,High Yield Muni
+IMTM,125555,Foreign Large Growth
+INC,21,High Yield Bond
+INCO,3100,India Equity
+INDA,1637536,India Equity
+INDF,678,India Equity
+INDL,7958,Trading--Leveraged Equity
+INDS,85097,Real Estate
+INDY,12267,India Equity
+INFR,1,Infrastructure
+INKM,2416,Allocation--50% to 70% Equity
+INMU,609,Muni National Interm
+INNO,1012,Mid-Cap Growth
+INQQ,1346,India Equity
+INTF,72723,Foreign Large Blend
+INTL,16833,Foreign Large Blend
+ION,752,Natural Resources
+IPAC,88283,Diversified Pacific/Asia
+IPAY,25698,Miscellaneous Sector
+IPKW,2777,Foreign Large Blend
+IPO,36847,Mid-Cap Growth
+IPOS,3782,Foreign Small/Mid Growth
+IPPP,564,Preferred Stock
+IQDE,492,Foreign Large Value
+IQDF,48715,Foreign Large Value
+IQDG,44016,Foreign Large Growth
+IQDY,13497,Foreign Large Value
+IQHI,100,High Yield Bond
+IQIN,3590,Foreign Large Value
+IQLT,9078426,Foreign Large Blend
+IQM,1128,Technology
+IQSI,4429,Foreign Large Blend
+IQSM,3,Mid-Cap Blend
+IQSU,1199,Large Blend
+IRBA,180,World Allocation
+IRBO,253199,Technology
+IRVH,1310,Inflation-Protected Bond
+ISCB,1438,Small Blend
+ISCF,26676,Foreign Small/Mid Blend
+ISCG,65117,Small Growth
+ISCV,6542,Small Value
+ISDB,3,Short-Term Bond
+ISHG,1852,World Bond
+ISHP,19,Consumer Cyclical
+ISMD,19302,Small Blend
+ISRA,277,Miscellaneous Region
+ISTB,407866,Short-Term Bond
+ISVL,21,Foreign Small/Mid Value
+ISZE,1424,Foreign Large Blend
+ITA,345228,Industrials
+ITAN,195,Large Blend
+ITB,1613818,Consumer Cyclical
+ITEQ,5532,Technology
+ITM,172122,Muni National Long
+ITOT,610624,Large Blend
+IUS,15085,Large Value
+IUSG,299912,Large Growth
+IUSV,865774,Large Value
+IVAL,145913,Foreign Large Value
+IVE,305961,Large Value
+IVEG,433,Miscellaneous Sector
+IVES,6559,Technology
+IVLU,79414,Foreign Large Value
+IVOG,3673,Mid-Cap Growth
+IVOL,107093,Inflation-Protected Bond
+IVOO,34755,Mid-Cap Blend
+IVOV,37705,Mid-Cap Value
+IVRA,13,Real Estate
+IVRS,987,Technology
+IVV,2104089,Large Blend
+IVW,891341,Large Growth
+IWB,246419,Large Blend
+IWC,18894,Small Blend
+IWD,877858,Large Value
+IWF,1633096,Large Growth
+IWFH,5,Communications
+IWIN,1141,Small Blend
+IWL,66050,Large Blend
+IWM,20218949,Small Blend
+IWN,1117317,Small Value
+IWO,219233,Small Growth
+IWP,433372,Mid-Cap Growth
+IWR,539259,Mid-Cap Blend
+IWS,378953,Mid-Cap Value
+IWTR,77,Natural Resources
+IWV,51903,Large Blend
+IWX,39439,Large Value
+IWY,220256,Large Growth
+IXC,712249,Equity Energy
+IXG,8021,Financial
+IXJ,117262,Health
+IXN,117885,Technology
+IXP,15269,Communications
+IXSE,7,India Equity
+IXUS,1107985,Foreign Large Blend
+IYC,42405,Consumer Cyclical
+IYE,345099,Equity Energy
+IYF,60003,Financial
+IYG,46726,Financial
+IYH,17067,Health
+IYJ,1190379,Industrials
+IYK,48748,Consumer Defensive
+IYLD,8633,World Allocation
+IYM,80913,Natural Resources
+IYR,3565682,Real Estate
+IYT,296587,Industrials
+IYW,445441,Technology
+IYY,21762,Large Blend
+IYZ,319948,Communications
+IZRL,3000,Technology
+JAAA,147856,Ultrashort Bond
+JAVA,41090,Large Value
+JBBB,1674,Bank Loan
+JCHI,112,China Region
+JCPI,10262,Inflation-Protected Bond
+JCTR,107,Large Blend
+JDST,7513730,Trading--Inverse Equity
+JEMA,307047,Diversified Emerging Mkts
+JETS,1053655,Miscellaneous Sector
+JFWD,11372,Technology
+JGRO,350144,Large Growth
+JHCB,157,Corporate Bond
+JHDV,45,Large Value
+JHEM,7967,Diversified Emerging Mkts
+JHID,2,Foreign Large Value
+JHMB,12225,Intermediate-Term Bond
+JHMD,19875,Foreign Large Blend
+JHML,100273,Large Blend
+JHMM,209650,Mid-Cap Blend
+JHPI,1769,Preferred Stock
+JHSC,18298,Small Blend
+JIB,0,Intermediate-Term Bond
+JIDA,667,Foreign Large Blend
+JIG,4170,Foreign Large Growth
+JIRE,171286,Foreign Large Blend
+JMBS,56911,Intermediate Government
+JMEE,10009,Small Blend
+JMOM,13252,Large Growth
+JMST,157276,Muni National Short
+JMUB,36725,Muni National Interm
+JNK,5062477,High Yield Bond
+JNUG,897486,Trading--Leveraged Equity
+JOET,7097,Large Growth
+JOJO,3100,High Yield Bond
+JPEM,14878,Diversified Emerging Mkts
+JPIB,26256,Multisector Bond
+JPIE,33633,Multisector Bond
+JPIN,50576,Foreign Large Value
+JPMB,44522,Emerging Markets Bond
+JPME,6726,Mid-Cap Blend
+JPRE,3287,Real Estate
+JPSE,23529,Small Blend
+JPST,2639680,Ultrashort Bond
+JPSV,101,Small Value
+JPUS,5115,Large Value
+JPXN,24331,Japan Stock
+JQUA,62511,Large Blend
+JRE,673,Real Estate
+JRNY,1,Consumer Cyclical
+JSCP,15140,Short-Term Bond
+JSMD,57374,Mid-Cap Growth
+JSML,9965,Small Growth
+JUCY,72171,Intermediate-Term Bond
+JUSA,4,Large Blend
+JUST,1227,Large Blend
+JVAL,10368,Large Value
+JXI,3805,Utilities
+JZRO,3,Natural Resources
+KALL,1099,China Region
+KARS,6780,Industrials
+KBA,62779,China Region
+KBE,3207624,Financial
+KBND,850,Emerging-Markets Local-Currency Bond
+KBUY,126,China Region
+KBWB,540132,Financial
+KBWD,59766,Financial
+KBWP,4857,Financial
+KBWR,2735,Financial
+KBWY,48258,Real Estate
+KCAL,43,Consumer Defensive
+KCE,2652,Financial
+KDIV,100,Diversified Pacific/Asia
+KDRN,0,Nontraditional Bond
+KEJI,28,China Region
+KEMQ,204,Diversified Emerging Mkts
+KEMX,686,Diversified Emerging Mkts
+KESG,1,China Region
+KFVG,1102,China Region
+KFYP,3,China Region
+KGRN,5193,China Region
+KGRO,4,China Region
+KHYB,9834,Emerging Markets Bond
+KIE,451324,Financial
+KLIP,29162,China Region
+KLNE,1993,Trading--Leveraged Equity
+KMED,121,Diversified Emerging Mkts
+KMLM,32935,Managed Futures
+KNG,79075,Large Value
+KOIN,684,Technology
+KOLD,1430867,Trading--Inverse Commodities
+KOMP,35732,Mid-Cap Growth
+KONG,17,Mid-Cap Blend
+KORP,7129,Corporate Bond
+KORU,76071,Trading--Leveraged Equity
+KPOP,26,Miscellaneous Region
+KRE,13977518,Financial
+KRMA,1496,Large Blend
+KRUZ,1940,Large Blend
+KSA,415254,Miscellaneous Region
+KSTR,2052,China Region
+KTEC,2850,China Region
+KURE,19842,China Region
+KVLE,142,Large Value
+KWEB,23204449,China Region
+KWT,1216,Miscellaneous Region
+KXI,55123,Consumer Defensive
+LABD,4428505,Trading--Inverse Equity
+LABU,24184883,Trading--Leveraged Equity
+LALT,100,World Allocation
+LBAY,13500,Long-Short Equity
+LCF,1,Large Blend
+LCG,5102,Large Growth
+LCLG,1,Large Growth
+LCR,3083,Tactical Allocation
+LCTD,424,Foreign Large Blend
+LCTU,13471,Large Blend
+LDEM,352,Diversified Emerging Mkts
+LDSF,8695,Short-Term Bond
+LDUR,37319,Short-Term Bond
+LEAD,277,Large Blend
+LEMB,25644,Emerging-Markets Local-Currency Bond
+LETB,2432,Large Growth
+LEXI,8775,Tactical Allocation
+LFEQ,7986,Large Blend
+LGH,20899,Large Blend
+LGLV,35754,Large Blend
+LGOV,42083,Long Government
+LIT,215367,Natural Resources
+LITP,3640,Natural Resources
+LJIM,437,Long-Short Equity
+LKOR,44,Corporate Bond
+LMBS,536650,Short-Term Bond
+LONZ,7244,Bank Loan
+LOPP,67,Mid-Cap Blend
+LOUP,1346,Technology
+LOWV,2693,Large Blend
+LQD,16040850,Corporate Bond
+LQDB,2,Corporate Bond
+LQDH,8859,Ultrashort Bond
+LQDI,7006,Corporate Bond
+LQDW,18287,Short-Term Bond
+LQIG,3,Corporate Bond
+LRGE,1480,Large Growth
+LRGF,91625,Large Blend
+LRND,75,Large Blend
+LRNZ,13652,Technology
+LSAF,5297,Mid-Cap Blend
+LSAT,7056,Mid-Cap Value
+LSST,831,Short-Term Bond
+LTL,1,Trading--Leveraged Equity
+LTPZ,97780,Inflation-Protected Bond
+LUX,6047,Consumer Cyclical
+LVHD,120919,Large Value
+LVHI,99758,Foreign Large Value
+LVOL,692,Large Blend
+LYFE,83,Large Blend
+LZRD,109,Large Blend
+MAAX,12,High Yield Muni
+MAGA,191,Large Value
+MAKX,287,Technology
+MBB,3959889,Intermediate Government
+MBBB,76,Corporate Bond
+MBCC,694,Large Growth
+MBND,5641,Muni National Interm
+MBNE,720,Muni National Interm
+MBOX,3071,Large Value
+MBSD,8480,Intermediate Government
+MCH,978,China Region
+MCHI,3466484,China Region
+MCSE,1052,Foreign Large Growth
+MDCP,127,Mid-Cap Blend
+MDEV,1002,Health
+MDIV,59054,Allocation--85%+ Equity
+MDLV,2562,Large Value
+MDY,681927,Mid-Cap Blend
+MDYG,60205,Mid-Cap Growth
+MDYV,76615,Mid-Cap Value
+MEAR,33818,Muni National Short
+MEDI,51,Health
+MEDX,124,Health
+MEM,846,Diversified Emerging Mkts
+MEME,45,Mid-Cap Growth
+MEMX,369,Diversified Emerging Mkts
+METV,204683,Technology
+MEXX,497,Trading--Leveraged Equity
+MFDX,17058,Foreign Large Blend
+MFEM,19355,Diversified Emerging Mkts
+MFLX,804,Muni National Long
+MFUL,5343,Allocation--50% to 70% Equity
+MFUS,1237,Large Value
+MGC,35423,Large Blend
+MGK,358866,Large Growth
+MGMT,582,Small Blend
+MGV,213009,Large Value
+MID,5733,Mid-Cap Growth
+MIDE,62,Mid-Cap Blend
+MIDU,13585,Trading--Leveraged Equity
+MIG,785,Corporate Bond
+MILN,3515,Large Growth
+MINC,432,Short-Term Bond
+MINN,62,Muni Minnesota
+MINO,498,Muni National Interm
+MINT,1063988,Ultrashort Bond
+MINV,2202,Diversified Pacific/Asia
+MISL,674,Industrials
+MJ,875881,Miscellaneous Sector
+MJUS,1214,Miscellaneous Sector
+MKAM,2709,Allocation--85%+ Equity
+MLN,284504,Muni National Long
+MLPA,100452,Energy Limited Partnership
+MLPX,32472,Energy Limited Partnership
+MMCA,3,Muni California Intermediate
+MMIN,23265,Muni National Long
+MMIT,110843,Muni National Interm
+MMLG,2790,Large Growth
+MMSB,0,Multisector Bond
+MMSC,6069,Small Growth
+MMTM,3623,Large Growth
+MNBD,5,Muni National Interm
+MOAT,442949,Large Blend
+MODL,321,Large Blend
+MOHR,4489,Large Growth
+MOO,45065,Natural Resources
+MOOD,1095,Tactical Allocation
+MOON,17329,Technology
+MORE,23,Allocation--50% to 70% Equity
+MORT,54899,Real Estate
+MOTE,32,Large Blend
+MOTI,12899,Foreign Large Value
+MPAY,35,Allocation--50% to 70% Equity
+MPRO,1634,Allocation--50% to 70% Equity
+MRAD,51,Communications
+MRND,1,Mid-Cap Blend
+MSFD,34581,Trading--Inverse Equity
+MSFU,67523,Trading--Leveraged Equity
+MSMR,1818,Allocation--50% to 70% Equity
+MSOS,704609,Miscellaneous Sector
+MSOX,16033,Trading--Leveraged Equity
+MSVX,10460,Long-Short Equity
+MTUM,295686,Large Growth
+MTVR,71,Technology
+MUB,1968764,Muni National Interm
+MUNI,50781,Muni National Interm
+MUSI,2311,Multisector Bond
+MUST,57402,Muni National Interm
+MVPS,51,Technology
+MVV,1746,Trading--Leveraged Equity
+MXI,5403,Natural Resources
+MYY,7794,Trading--Inverse Equity
+MZZ,1211,Trading--Inverse Equity
+NACP,840,Large Blend
+NAIL,157381,Trading--Leveraged Equity
+NANC,2614,Large Blend
+NANR,7066,Natural Resources
+NBCC,146,Consumer Cyclical
+NBCM,8983,Commodities Broad Basket
+NBCT,1,Mid-Cap Blend
+NBDS,1107,Technology
+NDIV,2424,Natural Resources
+NDVG,196,Large Blend
+NEAR,574469,Ultrashort Bond
+NERD,1686,Consumer Cyclical
+NETL,5040,Real Estate
+NETZ,1871,Large Blend
+NFLT,15550,Multisector Bond
+NFRA,90179,Infrastructure
+NFTY,10367,India Equity
+NGE,16046,Miscellaneous Region
+NIKL,570,Natural Resources
+NIWM,560,Small Blend
+NKEL,2455,Trading--Leveraged Equity
+NKEQ,965,Trading--Inverse Equity
+NLR,2539,Miscellaneous Sector
+NOBL,241064,Large Value
+NOPE,47471,Large Blend
+NORW,16034,Miscellaneous Region
+NSCS,100,Small Blend
+NSPL,4661,Trading--Leveraged Equity
+NSPY,2246,Large Blend
+NTSE,1876,Diversified Emerging Mkts
+NTSI,14208,World Allocation
+NTSX,50333,Large Blend
+NUAG,2315,Intermediate-Term Bond
+NUBD,23944,Intermediate-Term Bond
+NUDM,54789,Foreign Large Blend
+NUDV,103,Large Value
+NUEM,11227,Diversified Emerging Mkts
+NUGO,2391,Large Growth
+NUGT,2928296,Trading--Leveraged Equity
+NUHY,69121,High Yield Bond
+NULC,318,Large Blend
+NULG,41648,Large Growth
+NULV,200227,Large Value
+NUMG,26480,Mid-Cap Growth
+NUMV,19762,Mid-Cap Value
+NURE,4736,Real Estate
+NUSA,366450,Short-Term Bond
+NUSC,59885,Small Blend
+NVDL,230430,Trading--Leveraged Equity
+NVDS,8243347,Trading--Inverse Equity
+NVDY,37946,Large Blend
+NVIR,6,Equity Energy
+NVQ,3543,Mid-Cap Value
+NWLG,5,Large Growth
+NXTG,13253,Technology
+NYF,7793,Muni New York Intermediate
+NZRO,1,Large Growth
+NZUS,53,Large Growth
+OAEM,1551,Diversified Emerging Mkts
+OAIM,3659,Foreign Large Blend
+OALC,1218,Large Blend
+OARK,49900,Large Blend
+OBIL,75780,Short Government
+OBND,115,Nontraditional Bond
+OBOR,809,Infrastructure
+OCEN,2,Miscellaneous Sector
+OCIO,45,Allocation--50% to 70% Equity
+ODDS,627,Technology
+OEF,164983,Large Blend
+OEUR,21052,Europe Stock
+OGIG,14044,Technology
+OIH,452308,Equity Energy
+OMFL,358114,Large Blend
+OMFS,28632,Small Blend
+OND,400,Consumer Cyclical
+ONEO,134,Mid-Cap Blend
+ONEQ,248408,Large Growth
+ONEV,6439,Mid-Cap Value
+ONEY,19414,Mid-Cap Value
+ONLN,7524,Consumer Cyclical
+ONOF,349,Large Blend
+OOTO,11414,Trading--Leveraged Equity
+OPER,5460,Ultrashort Bond
+OPPX,2614,Large Growth
+ORFN,555,Large Blend
+OSCV,15601,Small Blend
+OSEA,200,Foreign Large Growth
+OUSA,25865,Large Value
+OUSM,88908,Small Blend
+OVB,957,Intermediate-Term Bond
+OVF,1899,Foreign Large Blend
+OVL,7307,Large Blend
+OVLH,4600,Large Blend
+OVM,87,Muni National Interm
+OVS,396,Small Blend
+OVT,175,Short-Term Bond
+OWNS,4480,Intermediate Government
+PAB,120,Intermediate-Term Bond
+PABU,102,Large Growth
+PAK,10148,Miscellaneous Region
+PALC,238526,Large Blend
+PAMC,59387,Mid-Cap Blend
+PAVE,525968,Infrastructure
+PAWZ,3659,Miscellaneous Sector
+PBD,21976,Miscellaneous Sector
+PBDC,5048,Financial
+PBDM,3636,Foreign Large Blend
+PBE,5635,Health
+PBEE,2452,Diversified Emerging Mkts
+PBJ,6851,Consumer Defensive
+PBND,30418,Intermediate-Term Bond
+PBS,1368,Consumer Cyclical
+PBSM,893,Small Blend
+PBTP,8860,Inflation-Protected Bond
+PBUS,96092,Large Blend
+PBW,122236,Miscellaneous Sector
+PCEF,107124,World Allocation
+PCRB,5378,Intermediate-Term Bond
+PCY,882560,Emerging Markets Bond
+PDBC,1684651,Commodities Broad Basket
+PDN,13966,Foreign Small/Mid Value
+PDP,21504,Large Growth
+PEJ,47589,Consumer Cyclical
+PEMX,3000,Diversified Emerging Mkts
+PEX,4,Miscellaneous Sector
+PEXL,1327,Mid-Cap Growth
+PEY,409869,Mid-Cap Value
+PEZ,1116,Consumer Cyclical
+PFEL,3481,Trading--Leveraged Equity
+PFES,3,Trading--Inverse Equity
+PFF,2188909,Preferred Stock
+PFFA,108950,Preferred Stock
+PFFD,397375,Preferred Stock
+PFFR,16232,Preferred Stock
+PFFV,31719,Preferred Stock
+PFI,719,Financial
+PFIG,32502,Corporate Bond
+PFIX,108447,Inflation-Protected Bond
+PFLD,24074,Preferred Stock
+PFM,24973,Large Value
+PFRL,442,Bank Loan
+PFUT,21890,Mid-Cap Growth
+PFXF,198330,Preferred Stock
+PGAL,52503,Miscellaneous Region
+PGF,148031,Preferred Stock
+PGHY,12356,High Yield Bond
+PGJ,54914,China Region
+PGRO,1882,Large Growth
+PGX,5083340,Preferred Stock
+PHB,48533,High Yield Bond
+PHDG,37953,Long-Short Equity
+PHO,41441,Natural Resources
+PHYD,1847,High Yield Bond
+PHYL,8515,High Yield Bond
+PICB,87561,World Bond
+PICK,95160,Equity Precious Metals
+PID,115379,Foreign Large Value
+PIE,13230,Diversified Emerging Mkts
+PIFI,1036,Intermediate-Term Bond
+PILL,25030,Trading--Leveraged Equity
+PIN,42339,India Equity
+PINK,11738,Health
+PIO,5610,Natural Resources
+PIT,958,Commodities Broad Basket
+PIZ,10480,Foreign Large Growth
+PJFG,651,Large Growth
+PJFV,0,Large Value
+PJP,20866,Health
+PKB,7830,Industrials
+PKW,42774,Large Value
+PLAT,603,Large Growth
+PLDR,36629,Large Growth
+PLRG,0,Large Blend
+PLTL,23,Small Blend
+PLW,30330,Long Government
+PNQI,10065,Technology
+POTX,9159,Miscellaneous Sector
+PP,29095,Technology
+PPA,288708,Industrials
+PPEM,4698,Diversified Emerging Mkts
+PPH,71931,Health
+PPI,5889,World Allocation
+PPIE,16514,Foreign Large Blend
+PPTY,1963,Real Estate
+PQDI,571,Preferred Stock
+PRAY,302,Large Blend
+PREF,81331,Preferred Stock
+PRF,29306,Large Value
+PRFD,6036,Preferred Stock
+PRFZ,19367,Small Blend
+PRN,4480,Industrials
+PRNT,9367,Technology
+PSC,3543,Small Blend
+PSCC,17121,Consumer Defensive
+PSCD,99,Consumer Cyclical
+PSCE,42384,Equity Energy
+PSCF,1069,Financial
+PSCH,3532,Health
+PSCI,544,Industrials
+PSCM,905,Natural Resources
+PSCT,5399,Technology
+PSCU,627,Utilities
+PSDN,4604,Miscellaneous Sector
+PSET,817,Large Blend
+PSI,11676,Technology
+PSIL,8139,Miscellaneous Sector
+PSJ,9237,Technology
+PSK,139991,Preferred Stock
+PSL,3646,Consumer Defensive
+PSMB,3409,Allocation--50% to 70% Equity
+PSMC,51292,Allocation--15% to 30% Equity
+PSMG,7852,Allocation--70% to 85% Equity
+PSMM,27006,Allocation--30% to 50% Equity
+PSQ,35687736,Trading--Inverse Equity
+PSR,4054,Real Estate
+PST,25936,Trading--Inverse Debt
+PTBD,72847,Corporate Bond
+PTEC,1,Miscellaneous Sector
+PTEU,477,Europe Stock
+PTF,5575,Technology
+PTH,1110,Health
+PTIN,9557,Foreign Large Blend
+PTLC,136915,Large Blend
+PTMC,14228,Mid-Cap Blend
+PTNQ,68189,Large Growth
+PUI,3213,Utilities
+PULS,547157,Ultrashort Bond
+PULT,2784,Ultrashort Bond
+PUNK,1048,Technology
+PVAL,11001,Large Value
+PVI,4635,Muni National Short
+PWB,7802,Large Growth
+PWC,3037,Mid-Cap Blend
+PWS,272,Tactical Allocation
+PWV,48168,Large Value
+PWZ,62708,Muni California Long
+PXE,31993,Equity Energy
+PXF,65376,Foreign Large Value
+PXH,135872,Diversified Emerging Mkts
+PXI,3623,Equity Energy
+PXJ,197405,Equity Energy
+PXQ,25,Technology
+PXUS,250,Foreign Large Blend
+PY,4328,Large Value
+PYPS,180,Trading--Inverse Equity
+PYPT,10295,Trading--Leveraged Equity
+PYZ,29220,Natural Resources
+PZA,345281,Muni National Long
+PZT,3158,Muni New York Long
+QABA,7471,Financial
+QARP,932,Large Blend
+QAT,2039,Miscellaneous Region
+QCLN,70118,Miscellaneous Sector
+QCLR,208,Large Growth
+QCON,908,Convertibles
+QDEF,2457,Large Value
+QDF,10501,Large Value
+QDIV,1896,Large Value
+QDPL,8771,Large Blend
+QDYN,2,Large Value
+QEFA,61219,Foreign Large Blend
+QEMM,3191,Diversified Emerging Mkts
+QGRO,9888,Large Growth
+QGRW,4563,Large Growth
+QID,8460827,Trading--Inverse Equity
+QINT,18426,Foreign Large Blend
+QLC,2108,Large Blend
+QLD,2542951,Trading--Leveraged Equity
+QLTA,88663,Corporate Bond
+QLV,10112,Large Blend
+QLVD,87,Foreign Large Blend
+QLVE,110,Diversified Emerging Mkts
+QMOM,109011,Mid-Cap Growth
+QPFF,4704,Preferred Stock
+QPX,459,Large Growth
+QQEW,73783,Large Growth
+QQH,67492,Large Growth
+QQJG,230,Mid-Cap Growth
+QQMG,2626,Large Growth
+QQQ,34855094,Large Growth
+QQQA,742,Large Growth
+QQQE,52819,Large Growth
+QQQJ,47570,Mid-Cap Growth
+QQQM,520500,Large Growth
+QQQN,110,Mid-Cap Growth
+QQQS,537,Mid-Cap Blend
+QQXT,9736,Large Growth
+QRFT,19,Large Growth
+QRMI,2553,Large Growth
+QTEC,98509,Technology
+QTR,610,Large Growth
+QTUM,36061,Technology
+QUAL,805836,Large Blend
+QUS,24870,Large Blend
+QVAL,231963,Mid-Cap Value
+QVML,391,Large Blend
+QVMM,3,Mid-Cap Blend
+QVMS,10,Small Blend
+QVOY,1501,Allocation--50% to 70% Equity
+QWST,600,Small Blend
+QYLE,334,Large Blend
+QYLG,13363,Large Growth
+RAAX,17115,Allocation--50% to 70% Equity
+RAFE,2,Large Value
+RATE,507,Nontraditional Bond
+RAVI,19541,Ultrashort Bond
+RAYC,16829,China Region
+RAYD,400,Large Blend
+RAYE,400,Diversified Emerging Mkts
+RAYS,487,Miscellaneous Sector
+RBLD,101,Industrials
+RCD,4618,Consumer Cyclical
+RDFI,5529,Nontraditional Bond
+RDIV,152396,Large Value
+RDOG,211,Real Estate
+RDVI,316990,Large Value
+RDVY,379868,Large Value
+RECS,70303,Large Blend
+REET,301385,Global Real Estate
+REGL,53442,Mid-Cap Blend
+REIT,759,Real Estate
+REK,21850,Trading--Inverse Equity
+REM,298844,Real Estate
+REMX,66344,Equity Precious Metals
+RESD,484,Foreign Large Blend
+RESE,1119,Diversified Emerging Mkts
+RESI,455,Real Estate
+RESP,16893,Large Blend
+RETL,705735,Trading--Leveraged Equity
+REVS,1124,Large Value
+REW,2615,Trading--Inverse Equity
+REZ,60676,Real Estate
+RFCI,95,Corporate Bond
+RFDA,541,Large Blend
+RFDI,2329,Foreign Large Blend
+RFEM,278,Diversified Emerging Mkts
+RFEU,15,Europe Stock
+RFFC,303,Large Blend
+RFG,643,Mid-Cap Growth
+RFV,4511,Small Value
+RGI,11572,Industrials
+RHCB,0,Corporate Bond
+RHRX,10792,Tactical Allocation
+RHS,17735,Consumer Defensive
+RHTX,76,Tactical Allocation
+RIET,12954,Real Estate
+RIGS,9457,World Bond
+RINF,12839,Nontraditional Bond
+RING,126789,Equity Precious Metals
+RISN,3630,Allocation--70% to 85% Equity
+RISR,1134,Nontraditional Bond
+RITA,144,Global Real Estate
+RLY,68772,World Allocation
+RNDM,608,Foreign Large Blend
+RNDV,3945,Large Value
+RNEM,200,Diversified Emerging Mkts
+RNLC,13497,Large Blend
+RNMC,648,Mid-Cap Blend
+RNRG,20022,Utilities
+RNSC,1618,Small Blend
+RNWZ,7,Equity Energy
+ROAM,204,Diversified Emerging Mkts
+ROBT,120600,Technology
+ROCI,2,Large Blend
+RODE,635,Foreign Large Value
+RODM,93463,Foreign Large Value
+ROKT,215,Industrials
+ROM,32864,Trading--Leveraged Equity
+ROMO,2788,Allocation--70% to 85% Equity
+ROOF,51,Real Estate
+RORO,2938,Tactical Allocation
+ROSC,76,Small Value
+ROUS,5211,Large Value
+RPAR,22421,Allocation--30% to 50% Equity
+RPG,20877,Large Growth
+RPHS,13510,Allocation--30% to 50% Equity
+RPV,299198,Large Value
+RRH,56753,Allocation--50% to 70% Equity
+RSBT,3787,Nontraditional Bond
+RSHO,6000,Large Value
+RSP,3182753,Large Blend
+RSPE,268,Large Value
+RSPY,1449,Large Blend
+RSX,0,Miscellaneous Region
+RSXJ,0,Miscellaneous Region
+RTAI,2,Muni National Long
+RTH,3632,Consumer Cyclical
+RTM,3027,Natural Resources
+RUFF,409,Large Blend
+RULE,3156,Allocation--50% to 70% Equity
+RVNU,9900,Muni National Long
+RVRB,24,Large Blend
+RWJ,50113,Small Value
+RWK,10473,Mid-Cap Value
+RWL,48521,Large Value
+RWM,1619674,Trading--Inverse Equity
+RWO,72671,Global Real Estate
+RWR,155862,Real Estate
+RWX,281005,Global Real Estate
+RXD,3365,Trading--Inverse Equity
+RXI,33213,Consumer Cyclical
+RXL,1275,Trading--Leveraged Equity
+RYE,61689,Equity Energy
+RYF,6043,Financial
+RYH,10650,Health
+RYJ,138,Mid-Cap Blend
+RYLG,274,Small Blend
+RYSE,141,Nontraditional Bond
+RYT,38896,Technology
+RYU,19191,Utilities
+RZG,861,Small Growth
+RZV,71854,Small Value
+SAA,5565,Trading--Leveraged Equity
+SAEF,1002,Mid-Cap Blend
+SAMT,2912,Large Blend
+SANE,203,Health
+SARK,874676,Trading--Inverse Equity
+SAVN,1309,Allocation--15% to 30% Equity
+SBB,2118,Trading--Inverse Equity
+SBIO,1793,Health
+SBND,277,Short-Term Bond
+SCC,2718,Trading--Inverse Equity
+SCHA,557533,Small Blend
+SCHB,461590,Large Blend
+SCHC,955558,Foreign Small/Mid Blend
+SCHD,3209701,Large Value
+SCHE,778145,Diversified Emerging Mkts
+SCHF,1713727,Foreign Large Blend
+SCHG,622197,Large Growth
+SCHH,4680792,Real Estate
+SCHI,230205,Corporate Bond
+SCHJ,15267,Short-Term Bond
+SCHK,82186,Large Blend
+SCHM,201489,Mid-Cap Blend
+SCHO,826815,Short Government
+SCHP,996858,Inflation-Protected Bond
+SCHQ,28313,Long Government
+SCHR,474729,Intermediate Government
+SCHV,263719,Large Value
+SCHX,1049610,Large Blend
+SCHY,104683,Foreign Large Value
+SCHZ,331730,Intermediate-Term Bond
+SCJ,45526,Japan Stock
+SCMB,5066,Muni National Interm
+SCO,1467175,Trading--Inverse Commodities
+SCRD,1,Corporate Bond
+SCZ,1609902,Foreign Small/Mid Blend
+SDCI,894,Commodities Broad Basket
+SDD,245,Trading--Inverse Equity
+SDEM,5835,Diversified Emerging Mkts
+SDOG,25777,Large Value
+SDOW,4528519,Trading--Inverse Equity
+SDP,1141,Trading--Inverse Equity
+SDS,4172647,Trading--Inverse Equity
+SDSI,3453,Short-Term Bond
+SDVY,259307,Small Value
+SDY,336884,Mid-Cap Value
+SEA,86,Industrials
+SECD,12,Bank Loan
+SECT,73528,Large Blend
+SEF,291801,Trading--Inverse Equity
+SEIM,365,Large Blend
+SEIQ,149,Large Blend
+SEIV,354,Large Value
+SEIX,8080,Bank Loan
+SELV,705,Large Blend
+SEMI,387,Technology
+SENT,26040,Long-Short Equity
+SETM,5365,Natural Resources
+SFIG,1150,Short-Term Bond
+SFLR,1231,Large Blend
+SFY,70622,Large Growth
+SFYF,942,Large Growth
+SFYX,6694,Mid-Cap Blend
+SGDJ,27335,Equity Precious Metals
+SGDM,42674,Equity Precious Metals
+SGLC,4059,Large Blend
+SGOV,2453219,Ultrashort Bond
+SH,19181788,Trading--Inverse Equity
+SHAG,6303,Short-Term Bond
+SHE,4288,Large Blend
+SHM,555563,Muni National Short
+SHOC,6063,Technology
+SHPP,200,Industrials
+SHUS,100,Large Blend
+SHV,2911138,Ultrashort Bond
+SHY,3353905,Short Government
+SHYD,86947,High Yield Muni
+SHYG,571918,High Yield Bond
+SHYL,3349,High Yield Bond
+SIFI,0,Multisector Bond
+SIHY,2918,High Yield Bond
+SIJ,12670,Trading--Inverse Equity
+SIL,379094,Equity Precious Metals
+SILJ,1405075,Equity Precious Metals
+SILX,117156,Trading--Leveraged Equity
+SIMS,1370,Infrastructure
+SIO,196,Multisector Bond
+SIXA,41414,Large Value
+SIXL,33263,Mid-Cap Blend
+SIXS,9220,Small Blend
+SIZE,1599,Large Blend
+SJB,451335,Trading--Inverse Debt
+SJIM,1794,Long-Short Equity
+SJNK,1599849,High Yield Bond
+SKF,23532,Trading--Inverse Equity
+SKOR,11589,Corporate Bond
+SKYU,3159,Trading--Inverse Equity
+SKYY,201850,Technology
+SLQD,181697,Short-Term Bond
+SLVP,125391,Equity Precious Metals
+SLX,2482,Natural Resources
+SLY,70185,Small Blend
+SLYG,38236,Small Growth
+SLYV,109261,Small Value
+SMB,19331,Muni National Short
+SMCP,2212,Small Blend
+SMDD,2565,Trading--Inverse Equity
+SMDV,41336,Small Blend
+SMDY,35,Small Blend
+SMH,5039250,Technology
+SMI,87,Muni National Long
+SMIG,66560,Small Value
+SMIN,10848,India Equity
+SMLE,31369,Small Blend
+SMLF,94354,Small Blend
+SMLV,1612,Small Blend
+SMMD,29816,Small Blend
+SMMU,28767,Muni National Short
+SMMV,41036,Small Blend
+SMN,20513,Trading--Inverse Equity
+SMOG,3362,Miscellaneous Sector
+SMOT,39171,Mid-Cap Blend
+SNAV,1599,Large Blend
+SNLN,4560,Bank Loan
+SNPD,0,Large Value
+SNPE,46010,Large Blend
+SNPG,18,Large Growth
+SNPV,2,Large Value
+SNSR,179656,Technology
+SOCL,9173,Technology
+SOGU,2469,Trading--Inverse Equity
+SOLR,6,Equity Energy
+SOXL,61130258,Trading--Leveraged Equity
+SOXQ,24909,Technology
+SOXS,61025073,Trading--Inverse Equity
+SOXX,1975193,Technology
+SPAB,1765508,Intermediate-Term Bond
+SPAQ,350,Health
+SPBO,124139,Corporate Bond
+SPC,7859,Financial
+SPCZ,307,Financial
+SPD,5587,Large Blend
+SPDN,2126832,Trading--Inverse Equity
+SPDV,1564,Large Value
+SPDW,1708105,Foreign Large Blend
+SPEM,919677,Diversified Emerging Mkts
+SPEU,19084,Europe Stock
+SPFF,42759,Preferred Stock
+SPGP,131812,Large Blend
+SPHB,320599,Large Blend
+SPHD,717473,Large Value
+SPHQ,404769,Large Blend
+SPHY,171115,High Yield Bond
+SPIB,2936777,Corporate Bond
+SPIP,167347,Inflation-Protected Bond
+SPKX,200,Trading--Miscellaneous
+SPKY,2000,Trading--Miscellaneous
+SPLB,1137746,Long-Term Bond
+SPLG,1987460,Large Blend
+SPLV,1733442,Large Value
+SPMB,902922,Intermediate Government
+SPMD,556878,Mid-Cap Blend
+SPMO,22515,Large Growth
+SPMV,609,Large Blend
+SPRE,4948,Real Estate
+SPRX,11452,Technology
+SPSB,1538455,Short-Term Bond
+SPSK,29702,World Bond
+SPSM,365136,Small Blend
+SPTI,3474354,Intermediate Government
+SPTL,1993716,Long Government
+SPTM,189170,Large Blend
+SPTS,2403398,Short Government
+SPUC,4,Large Blend
+SPUS,23934,Large Growth
+SPUU,7591,Trading--Leveraged Equity
+SPVM,37106,Large Value
+SPVU,9786,Large Value
+SPXB,250,Corporate Bond
+SPXE,405,Large Blend
+SPXL,8751636,Trading--Leveraged Equity
+SPXN,152,Large Blend
+SPXS,17730650,Trading--Inverse Equity
+SPXT,152,Large Blend
+SPXU,16406608,Trading--Inverse Equity
+SPXV,1,Large Blend
+SPY,52648061,Large Blend
+SPYC,2625,Large Blend
+SPYD,2081879,Large Value
+SPYG,1216850,Large Growth
+SPYI,32384,Large Blend
+SPYV,1674023,Large Value
+SPYX,31754,Large Blend
+SQEW,2728,Mid-Cap Blend
+SQLV,1250,Small Value
+SQQQ,86619885,Trading--Inverse Equity
+SRET,13803,Real Estate
+SRHQ,26251,Mid-Cap Blend
+SRLN,1140220,Bank Loan
+SRS,40918,Trading--Inverse Equity
+SRTY,498562,Trading--Inverse Equity
+SRVR,69523,Real Estate
+SSFI,84162,Nontraditional Bond
+SSG,41648,Trading--Inverse Equity
+SSLY,1,Small Blend
+SSO,2571202,Trading--Leveraged Equity
+SSPX,8080,Large Growth
+SSPY,31,Large Value
+SSUS,185886,Large Blend
+SSXU,1263,Foreign Large Blend
+STGF,100,Allocation--15% to 30% Equity
+STIP,473574,Inflation-Protected Bond
+STLG,155218,Large Growth
+STLV,311,Mid-Cap Value
+STNC,1600,Large Blend
+STOT,105153,Short-Term Bond
+STPZ,25793,Inflation-Protected Bond
+STRV,71295,Large Blend
+STXD,3756,Large Blend
+STXE,1968,Diversified Emerging Mkts
+STXG,3046,Large Growth
+STXK,297,Small Blend
+STXV,825,Large Value
+SUB,268253,Muni National Short
+SUBS,2,Large Growth
+SUPL,100,Industrials
+SUPP,2,Large Blend
+SURE,550,Large Value
+SURI,124,Health
+SUSA,49242,Large Blend
+SUSB,152295,Short-Term Bond
+SUSC,76328,Corporate Bond
+SUSL,15761,Large Blend
+SVAL,4071,Small Value
+SVIX,893614,Trading--Inverse Equity
+SVOL,236395,Large Blend
+SVXY,558067,Trading--Miscellaneous
+SWEB,170,Trading--Inverse Equity
+SXQG,31307,Large Growth
+SXUS,336,Foreign Large Growth
+SYII,0,Large Blend
+SYLD,29665,Mid-Cap Value
+SYNB,1,Health
+SYUS,0,Mid-Cap Blend
+SZK,2774,Trading--Inverse Equity
+SZNE,1322,Large Blend
+TACK,38466,Tactical Allocation
+TAFI,179478,Muni National Short
+TAGG,306,Intermediate-Term Bond
+TAIL,67088,Trading--Inverse Equity
+TAN,436787,Miscellaneous Sector
+TARK,91605,Trading--Leveraged Equity
+TAXF,6414,Muni National Interm
+TBF,175451,Trading--Inverse Debt
+TBIL,562654,Ultrashort Bond
+TBT,1742188,Trading--Inverse Debt
+TBUX,5723,Ultrashort Bond
+TBX,76200,Trading--Inverse Debt
+TCHI,23,Technology
+TCHP,35548,Large Growth
+TDIV,119456,Technology
+TDSA,1151,Tactical Allocation
+TDSB,51494,Tactical Allocation
+TDSC,4523,Tactical Allocation
+TDSD,2936,Tactical Allocation
+TDSE,10821,Tactical Allocation
+TDTF,180357,Inflation-Protected Bond
+TDTT,186480,Inflation-Protected Bond
+TDV,25487,Technology
+TDVG,67816,Large Blend
+TECB,21974,Technology
+TECL,1630112,Trading--Leveraged Equity
+TECS,1463394,Trading--Inverse Equity
+TEQI,15286,Large Value
+TFI,233212,Muni National Long
+TFLO,1923729,Ultrashort Bond
+TFLR,4,Bank Loan
+TGIF,305,Multisector Bond
+TGN,0,Large Blend
+TGRW,1317,Large Growth
+THCX,14677,Miscellaneous Sector
+THD,52182,Miscellaneous Region
+THLV,16377,Large Blend
+THNQ,28391,Technology
+THY,11619,High Yield Bond
+THYF,701,High Yield Bond
+TILT,3174,Large Blend
+TIME,5453,Technology
+TINT,8,Natural Resources
+TINY,82,Technology
+TIP,3717934,Inflation-Protected Bond
+TIPX,87239,Inflation-Protected Bond
+TIPZ,3212,Inflation-Protected Bond
+TLH,395272,Long Government
+TLT,13470537,Long Government
+TLTD,6110,Foreign Large Value
+TLTE,1996,Diversified Emerging Mkts
+TLTW,463091,Long Government
+TMDV,1103,Mid-Cap Value
+TMF,16005430,Trading--Leveraged Debt
+TMFC,21802,Large Growth
+TMFE,1393,Large Growth
+TMFM,5500,Mid-Cap Growth
+TMFS,3610,Small Growth
+TMFX,2606,Mid-Cap Growth
+TMV,168315,Trading--Inverse Debt
+TNA,9849851,Trading--Leveraged Equity
+TOKE,1958,Miscellaneous Sector
+TOLL,6116,Large Blend
+TOLZ,4554,Infrastructure
+TPHD,34512,Mid-Cap Value
+TPHE,910,Mid-Cap Value
+TPIF,9485,Foreign Large Blend
+TPLC,11933,Mid-Cap Blend
+TPLE,2025,Mid-Cap Blend
+TPMN,4441,Large Blend
+TPOR,10854,Trading--Leveraged Equity
+TPSC,3889,Small Blend
+TPYP,38334,Energy Limited Partnership
+TQQQ,83565135,Trading--Leveraged Equity
+TRFK,3601,Technology
+TRFM,502,Technology
+TRND,59201,Large Blend
+TRPL,65,Large Blend
+TRTY,7292,Tactical Allocation
+TSJA,483,Trading--Miscellaneous
+TSL,24600,Trading--Leveraged Equity
+TSLI,9002,Trading--Inverse Equity
+TSLL,12030980,Trading--Leveraged Equity
+TSLQ,1052415,Trading--Inverse Equity
+TSLS,391066,Trading--Inverse Equity
+TSME,7496,Mid-Cap Blend
+TSOC,17,Trading--Miscellaneous
+TSPA,3275,Large Blend
+TTAC,2261,Large Blend
+TTAI,1906,Foreign Large Blend
+TTT,27626,Trading--Inverse Debt
+TUA,22650,Intermediate-Term Bond
+TUG,2660,Allocation--50% to 70% Equity
+TUGN,979,Allocation--50% to 70% Equity
+TUR,236640,Miscellaneous Region
+TUSI,15,Ultrashort Bond
+TWEB,683,Technology
+TWIO,2220,Allocation--30% to 50% Equity
+TWM,1613061,Trading--Inverse Equity
+TYA,8885,Long Government
+TYD,18951,Trading--Leveraged Debt
+TYLG,109,Technology
+TYO,27494,Trading--Inverse Debt
+TZA,6174794,Trading--Inverse Equity
+UAE,8332,Miscellaneous Region
+UAV,413,Miscellaneous Sector
+UBOT,47387,Trading--Leveraged Equity
+UBR,103,Trading--Leveraged Equity
+UBT,52093,Trading--Leveraged Debt
+UCC,428,Trading--Leveraged Equity
+UCO,4007204,Trading--Leveraged Commodities
+UCON,249821,Nontraditional Bond
+UCRD,3,Corporate Bond
+UCYB,1208,Trading--Leveraged Equity
+UDI,5,Large Value
+UDIV,736,Large Blend
+UDN,58058,World Bond
+UDOW,2762780,Trading--Leveraged Equity
+UEVM,493,Diversified Emerging Mkts
+UFIV,500,Intermediate Government
+UFO,4363,Industrials
+UGE,1800,Trading--Leveraged Equity
+UGL,85198,Trading--Leveraged Commodities
+UITB,10235,Intermediate-Term Bond
+UIVM,585,Foreign Large Value
+UJB,7329,Trading--Leveraged Debt
+ULE,12009,Trading--Miscellaneous
+ULST,173376,Ultrashort Bond
+ULTR,23,Ultrashort Bond
+ULVM,53,Large Value
+UMDD,7380,Trading--Leveraged Equity
+UMI,7053,Energy Limited Partnership
+UMMA,3073,Foreign Large Growth
+UPAR,2855,Allocation--50% to 70% Equity
+UPRO,4912617,Trading--Leveraged Equity
+UPV,2065,Trading--Leveraged Equity
+UPW,480,Trading--Leveraged Equity
+URA,3248248,Natural Resources
+URE,206,Trading--Leveraged Equity
+URNJ,118326,Natural Resources
+URNM,570891,Natural Resources
+URTY,562461,Trading--Leveraged Equity
+USAI,8334,Energy Limited Partnership
+USCA,423,Large Blend
+USCI,9488,Commodities Broad Basket
+USD,156189,Trading--Leveraged Equity
+USDU,275202,Trading--Miscellaneous
+USFR,5679931,Ultrashort Bond
+USHY,5874095,High Yield Bond
+USIG,1259405,Corporate Bond
+USMC,19092,Large Blend
+USMF,6713,Mid-Cap Blend
+USMV,1345024,Large Blend
+USNZ,0,Large Blend
+USPX,24723,Large Blend
+USRT,176942,Real Estate
+USSG,40905,Large Blend
+UST,2179,Trading--Leveraged Debt
+USTB,15666,Short-Term Bond
+USVM,4257,Small Blend
+USVN,1,Long Government
+USVT,300,Mid-Cap Value
+USXF,36529,Large Growth
+UTEN,950,Long Government
+UTES,19,Utilities
+UTHY,36,Long Government
+UTRE,84,Short Government
+UTRN,1154,Large Blend
+UTSL,90201,Trading--Leveraged Equity
+UTWO,17667,Short Government
+UTWY,8,Long Government
+UUP,4261645,Trading--Miscellaneous
+UVDV,2443,Large Value
+UVIX,6542267,Trading--Leveraged Equity
+UVXY,38673620,Trading--Miscellaneous
+UWM,531047,Trading--Leveraged Equity
+UXI,92,Trading--Leveraged Equity
+UYG,29987,Trading--Leveraged Equity
+UYLD,3703,Ultrashort Bond
+UYM,2225,Trading--Leveraged Equity
+VABS,41,Short-Term Bond
+VALQ,1288,Large Value
+VALT,659,Ultrashort Bond
+VAMO,3342,Long-Short Equity
+VAW,88843,Natural Resources
+VB,344100,Small Blend
+VBK,136944,Small Growth
+VBR,241419,Small Value
+VCAR,808,Technology
+VCEB,49692,Corporate Bond
+VCIT,7180995,Corporate Bond
+VCLN,100,Miscellaneous Sector
+VCLT,1067530,Long-Term Bond
+VCR,66663,Consumer Cyclical
+VCSH,2458286,Short-Term Bond
+VDC,73527,Consumer Defensive
+VDE,483891,Equity Energy
+VDNI,0,Large Blend
+VEA,8660454,Foreign Large Blend
+VEGI,24771,Natural Resources
+VEGN,414,Large Growth
+VEMY,626,Emerging Markets Bond
+VERS,309,Technology
+VEU,1709808,Foreign Large Blend
+VFH,269389,Financial
+VFMF,3897,Mid-Cap Blend
+VFMO,4287,Mid-Cap Growth
+VFMV,937,Mid-Cap Blend
+VFQY,664,Mid-Cap Blend
+VFVA,59354,Mid-Cap Value
+VGIT,775459,Intermediate Government
+VGK,2195931,Europe Stock
+VGLT,648769,Long Government
+VGSH,3377804,Short Government
+VGT,285559,Technology
+VHT,151002,Health
+VICE,71,Miscellaneous Sector
+VIDI,7010,Foreign Large Value
+VIG,609276,Large Blend
+VIGI,117249,Foreign Large Growth
+VIOG,9808,Small Growth
+VIOO,59352,Small Blend
+VIOV,58160,Small Value
+VIRS,544,Large Blend
+VIS,55533,Industrials
+VIXM,373724,Trading--Miscellaneous
+VIXY,7568928,Trading--Miscellaneous
+VLU,3887,Large Value
+VLUE,170457,Large Value
+VMBS,2049373,Intermediate Government
+VMOT,7013,Long-Short Equity
+VNAM,1382,Miscellaneous Region
+VNLA,186647,Ultrashort Bond
+VNM,1296959,Miscellaneous Region
+VNMC,0,Mid-Cap Blend
+VNQ,2877636,Real Estate
+VNQI,185408,Global Real Estate
+VNSE,104,Large Blend
+VO,515329,Mid-Cap Blend
+VOE,314249,Mid-Cap Value
+VONE,42519,Large Blend
+VONG,452034,Large Growth
+VONV,314615,Large Value
+VOO,2454057,Large Blend
+VOOG,80146,Large Growth
+VOOV,43713,Large Value
+VOT,203224,Mid-Cap Growth
+VOTE,7674,Large Blend
+VOX,135677,Communications
+VPC,377,Nontraditional Bond
+VPL,492489,Diversified Pacific/Asia
+VPN,1280,Infrastructure
+VPU,136929,Utilities
+VR,407,Technology
+VRAI,1766,Mid-Cap Value
+VRIG,32822,Ultrashort Bond
+VRP,135887,Preferred Stock
+VSDA,2291,Large Blend
+VSGX,113958,Foreign Large Blend
+VSLU,7514,Large Blend
+VSMV,145,Large Value
+VSS,322175,Foreign Small/Mid Blend
+VTC,21996,Corporate Bond
+VTEB,1413842,Muni National Interm
+VTES,31020,Muni National Short
+VTHR,26618,Large Blend
+VTI,1875247,Large Blend
+VTIP,1024707,Inflation-Protected Bond
+VTV,1541422,Large Value
+VTWG,4862,Small Growth
+VTWO,1269943,Small Blend
+VTWV,8975,Small Value
+VUG,826833,Large Growth
+VUSB,425113,Ultrashort Bond
+VUSE,13739,Mid-Cap Value
+VV,108897,Large Blend
+VWID,170,Foreign Large Value
+VWO,11561247,Diversified Emerging Mkts
+VWOB,128840,Emerging Markets Bond
+VXF,169595,Mid-Cap Blend
+VXUS,2065575,Foreign Large Blend
+VYM,1722943,Large Value
+VYMI,222761,Foreign Large Value
+WANT,60530,Trading--Leveraged Equity
+WBAT,3,Technology
+WBIF,2315,Large Value
+WBIG,4443,Large Value
+WBIL,2175,Large Blend
+WBIY,5938,Mid-Cap Value
+WCBR,24773,Technology
+WCEO,64,Small Blend
+WCLD,252220,Technology
+WDNA,275,Health
+WEBL,1022135,Trading--Leveraged Equity
+WEBS,253246,Trading--Inverse Equity
+WEED,683,Miscellaneous Sector
+WFH,354,Technology
+WFHY,25058,High Yield Bond
+WFIG,10,Corporate Bond
+WGRO,104,Mid-Cap Growth
+WINC,557,Short-Term Bond
+WINN,591198,Large Growth
+WIP,244541,World Bond
+WIZ,431,Allocation--70% to 85% Equity
+WLTG,1,Large Blend
+WLTH,1262,Allocation--50% to 70% Equity
+WNDY,121,Miscellaneous Sector
+WOMN,145,Large Blend
+WOOD,5790,Natural Resources
+WPS,35838,Global Real Estate
+WTAI,191666,Technology
+WTMF,62632,Managed Futures
+WTRE,4706,Global Real Estate
+WTV,2882,Large Value
+WUGI,3168,Technology
+WWJD,6203,Foreign Large Blend
+XAR,47474,Industrials
+XB,101,High Yield Bond
+XBB,4,High Yield Bond
+XBI,4956286,Health
+XBIL,26417,Ultrashort Bond
+XC,869,Diversified Emerging Mkts
+XCCC,2144,High Yield Bond
+XCEM,15145,Diversified Emerging Mkts
+XCLR,34,Large Blend
+XCOR,2,Large Growth
+XDAT,169,Technology
+XDNA,3089,Health
+XDQQ,289,Trading--Miscellaneous
+XDSQ,11244,Trading--Miscellaneous
+XEMD,881,Emerging Markets Bond
+XES,84296,Equity Energy
+XFIV,714,Intermediate Government
+XHB,1772728,Consumer Cyclical
+XHE,36585,Health
+XHLF,26292,Short Government
+XHS,1860,Health
+XHYC,19,High Yield Bond
+XHYD,81,High Yield Bond
+XHYE,110,High Yield Bond
+XHYF,300,High Yield Bond
+XHYH,100,High Yield Bond
+XHYI,3,High Yield Bond
+XHYT,10,High Yield Bond
+XITK,1229,Technology
+XJH,3591,Mid-Cap Blend
+XJR,24918,Small Blend
+XLB,4792480,Natural Resources
+XLC,6241511,Communications
+XLE,19869909,Equity Energy
+XLF,32283017,Financial
+XLG,19851,Large Blend
+XLI,8135402,Industrials
+XLK,6231226,Technology
+XLP,9633188,Consumer Defensive
+XLRE,3925489,Real Estate
+XLSR,18083,Large Blend
+XLU,12209478,Utilities
+XLV,6877962,Health
+XLY,3274866,Consumer Cyclical
+XME,2162648,Natural Resources
+XMHQ,47310,Mid-Cap Blend
+XMLV,22602,Mid-Cap Blend
+XMMO,45115,Mid-Cap Growth
+XMPT,9190,High Yield Muni
+XMVM,12099,Mid-Cap Value
+XNAV,342,Large Growth
+XNTK,25925,Technology
+XONE,44374,Short Government
+XOP,2646056,Equity Energy
+XOUT,1192,Large Growth
+XPH,35526,Health
+XPND,6234,Technology
+XPP,1496,Trading--Leveraged Equity
+XRLV,291,Large Blend
+XRMI,4004,Large Blend
+XRT,6630667,Consumer Cyclical
+XSD,74770,Technology
+XSHD,3620,Small Value
+XSHQ,4742,Small Blend
+XSLV,27921,Small Blend
+XSMO,5535,Small Growth
+XSOE,1034218,Diversified Emerging Mkts
+XSVM,63548,Small Value
+XSVN,13,Long Government
+XSW,22746,Technology
+XT,118971,Miscellaneous Sector
+XTEN,6,Long Government
+XTL,5526,Communications
+XTN,38013,Industrials
+XTR,21,Large Blend
+XTRE,362,Short Government
+XTWO,392,Short Government
+XTWY,1,Long Government
+XVOL,0,Large Blend
+XVV,5252,Large Blend
+XWEB,705,Technology
+XYLE,254,Large Blend
+XYLG,8038,Large Blend
+YALL,7195,Large Blend
+YANG,3351021,Trading--Inverse Equity
+YCL,21550,Trading--Miscellaneous
+YCS,19921,Trading--Miscellaneous
+YEAR,359198,Ultrashort Bond
+YINN,2197663,Trading--Leveraged Equity
+YLD,8843,High Yield Bond
+YLDE,243,Large Blend
+YOLO,18708,Miscellaneous Sector
+YPS,3024,Mid-Cap Value
+YUMY,546,Consumer Defensive
+YXI,16275,Trading--Inverse Equity
+YYY,348051,Tactical Allocation
+ZECP,6818,Large Blend
+ZIG,400,Large Blend
+ZIVB,1000,Trading--Inverse Equity
+ZROZ,304710,Long Government
+ZSL,800433,Trading--Inverse Commodities
+ZSPY,108,Long-Short Equity
+ZTAX,41,Muni National Long
