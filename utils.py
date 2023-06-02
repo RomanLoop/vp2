@@ -337,7 +337,7 @@ def get_gnn(n_nodes, params, model_type, torch_device, torch_dtype):
 
 
 # Parent function to run GNN training given input config
-def run_gnn_training(q_torch, dgl_graph, net, embed, optimizer, number_epochs, tol, patience, prob_threshold):
+def run_gnn_training(q_torch, dgl_graph, net, embed, optimizer, number_epochs, tol, patience, prob_threshold, debug=True):
     """
     Wrapper function to run and monitor GNN training. Includes early stopping.
     """
@@ -374,7 +374,8 @@ def run_gnn_training(q_torch, dgl_graph, net, embed, optimizer, number_epochs, t
             best_bitstring = bitstring
 
         if epoch % 1000 == 0:
-            print(f'Epoch: {epoch}, Loss: {loss_}')
+            if debug:
+                print(f'Epoch: {epoch}, Loss: {loss_}')
             loss_hist.append(loss_)
             epoch_hist.append(epoch)
 
