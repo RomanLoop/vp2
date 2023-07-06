@@ -110,26 +110,10 @@ def portfolio_return(df:pd.DataFrame, assets:list) -> Tuple[pd.Series, pd.Series
     df_returns = df.pct_change()
     df_returns.dropna(axis=0, inplace=True)
 
-    # assert df_returns.shape[0] + 1 == df.shape[0]
-    # assert df_returns.shape[1] == df.shape[1]
 
     returns = df_returns.loc[:,assets].mean(axis=1)
 
     return returns, (returns + 1).cumprod() -1
-
-
-# def drawdown(series):
-#     """ """
-#     roll_max = series.rolling(window=len(series), min_periods=1).max()
-#     return series / roll_max - 1.0
-
-
-# def drawdown_pct(return_series):
-#     rs_max = return_series.rolling(
-#         window=len(return_series), 
-#         min_periods=1
-#         ).max()
-#     return return_series - rs_max
 
 
 def sharpe_ratio(return_series, N=N_TRADING_DAYS, rf=RISK_FREE_RATE):

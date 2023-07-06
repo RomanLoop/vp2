@@ -13,3 +13,11 @@ The main goal of this project is to apply the approach of Schuetz et al. the S&P
 
 ## Documentation 
 A detailed documentation of the project and all results can be found in `docs/TechnicalReport_VP2_GNN-MIS_RomanLoop.docx`
+The original paper *"Combinatorial Optimization with Physics-Inspired Graph Neural Networks"* from Schuetz et al. can be found on [arXiv](https://arxiv.org/pdf/2107.01188.pdf). 
+The code of the authors is available on [Github](https://github.com/amazon-science/co-with-gnns-example).
+
+The main code (end-to-end process) can be found in the `backtest.ipynb` notebook. All code regarding hyperparameter optimization is contained in `hyperparameter_optimization_my.ipynb` and `hyperparameter_optimization_raytune.ipynb`. Helper functions and reusable code can be found in `utils` pyhton files.
+
+## Python setup
+Please note I have provided a `requirements.txt` file, which defines the environment required to run this code. The code has been run with Python 3.9. and is not tested with any other Python version. Thus, I suggest to create a virtual environment with Python 3.9:
+```python -m venv .venv```
